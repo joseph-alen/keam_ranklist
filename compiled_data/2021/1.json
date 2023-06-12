@@ -1,0 +1,4998 @@
+{
+    "B.Pharm": [
+        [
+            "KKB",
+            "College of Pharmaceutical Sciences, Kozhikkode",
+            "G",
+            "111"
+        ],
+        [
+            "TVB",
+            "College of Pharmaceutical Sciences, Thiruvananthapuram",
+            "G",
+            "369"
+        ],
+        [
+            "ALB",
+            "College of Pharmaceutical Sciences, Alappuzha",
+            "G",
+            "399"
+        ],
+        [
+            "AMB",
+            "College of Pharmaceutical Science, Kannur",
+            "G",
+            "528"
+        ],
+        [
+            "KTB",
+            "College of Pharmaceutical Sciences, Kottayam",
+            "G",
+            "556"
+        ],
+        [
+            "AFB",
+            "Al Shifa College of Pharmacy, Poonthavanam, Kizhattur,",
+            "S",
+            "3141"
+        ],
+        [
+            "AHB",
+            "Ahalia School of Pharmacy, Kozhipara, Palakkad",
+            "S",
+            "3306"
+        ],
+        [
+            "CAB",
+            "Caritas College of Pharmacy, Thellakom, Kottayam",
+            "S",
+            "3732"
+        ],
+        [
+            "KMB",
+            "KMCT College of Pharmaceutical Sciences, Kalanthode,",
+            "S",
+            "3864"
+        ],
+        [
+            "JDB",
+            "JDT Islam College of Pharmacy, Marikunnu, Kozhikode",
+            "S",
+            "4143"
+        ],
+        [
+            "AAB",
+            "Al-Azhar College of Pharmacy, Thodupuzha",
+            "S",
+            "4530"
+        ],
+        [
+            "KCB",
+            "KMCT College of Pharmacy, Mampra, Malappuram",
+            "S",
+            "4590"
+        ],
+        [
+            "CCB",
+            "Chemists College of Pharmaceutical Scie.&Research,",
+            "S",
+            "5444"
+        ],
+        [
+            "KNB",
+            "College of Pharmacy, Kannur Medical College, Anajarakandy,",
+            "S",
+            "5554"
+        ],
+        [
+            "DAB",
+            "Devaki Amma Memorial College of Pharmacy, Pulliparamba,",
+            "S",
+            "5773"
+        ],
+        [
+            "MCB",
+            "Moulana College of Pharmacy, Nr. Railway Station,",
+            "S",
+            "5800"
+        ],
+        [
+            "PCB",
+            "Pushpagiri College of Pharmacy, Perumthuruthy, Thiruvalla",
+            "S",
+            "5828"
+        ],
+        [
+            "CHB",
+            "Cochin College of Engineering & Technology,Valanchery",
+            "S",
+            "5850"
+        ],
+        [
+            "ECB",
+            "Ezhuthachan College of Pharmaceutical Science,",
+            "S",
+            "5978"
+        ],
+        [
+            "MDB",
+            "Mar Dioscorus College of Pharmacy, Alathara, Sreekaryam,",
+            "S",
+            "6113"
+        ],
+        [
+            "NPB",
+            "National College of Pharmacy, Manassery, Mukkam,",
+            "S",
+            "6419"
+        ],
+        [
+            "JSB",
+            "Jamia Salafiya Pharmacy College, Salafiya Gramam, Pulikkal,",
+            "S",
+            "7248"
+        ],
+        [
+            "CRB",
+            "Crescent College of Pharmaceutical Sciences, Madayipara,",
+            "S",
+            "7251"
+        ],
+        [
+            "KVB",
+            "K V M College of Pharmacy, Kokkothamangalam, Cherthala",
+            "S",
+            "7330"
+        ],
+        [
+            "SCB",
+            "St. Joseph\u2019s College of Pharmacy, Cherthala, Alappuzha",
+            "S",
+            "7351"
+        ],
+        [
+            "SKP",
+            "Sree Krishna College of Pharmacy & Research Centre,",
+            "S",
+            "7643"
+        ],
+        [
+            "DMB",
+            "DM WIMS College of Pharmacy, Wayanad",
+            "S",
+            "7875"
+        ],
+        [
+            "NEB",
+            "Nirmala College of Health Science, Meloor, Thrissur",
+            "S",
+            "7885"
+        ],
+        [
+            "EPB",
+            "Elims College of Pharmacy, Ramavarmapuram, Thrissur.",
+            "S",
+            "8141"
+        ],
+        [
+            "MZB",
+            "Mount Zion College of Pharmaceutical Science and",
+            "S",
+            "8329"
+        ],
+        [
+            "WSB",
+            "Westfort College of Pharmacy, Thrissur",
+            "S",
+            "8703"
+        ],
+        [
+            "HGB",
+            "Holy Grace Academy of Pharmacy, Mala,Thrissur",
+            "S",
+            "8747"
+        ],
+        [
+            "NCB",
+            "Nehru College of Pharmacy, Pampady, Thiruvilwamala,",
+            "S",
+            "8832"
+        ],
+        [
+            "KRB",
+            "Karuna College of Pharmacy, Thirumittacode, Pattambi,",
+            "S",
+            "8837"
+        ],
+        [
+            "DVB",
+            "The Dale View College of Pharmacy & Research Centre,",
+            "S",
+            "8856"
+        ],
+        [
+            "MPB",
+            "Dr. Joseph Mar Thoma Institute of Pharmaceutical Scie. &",
+            "S",
+            "9005"
+        ],
+        [
+            "GCB",
+            "Grace College of Pharmacy, Kodunthirapully, Palakkad",
+            "S",
+            "9181"
+        ],
+        [
+            "JCB",
+            "St. James College of Pharmaceutical Sciences, River Bank,",
+            "S",
+            "9304"
+        ],
+        [
+            "NMB",
+            "Nirmala College of Pharmacy, Muvattupuzha, Ernakulam",
+            "S",
+            "9348"
+        ],
+        [
+            "MGR",
+            "MGM College of Pharmacy, Vilayancode, Kannur",
+            "S",
+            "9525"
+        ],
+        [
+            "KPB",
+            "K T N College of Pharmacy, Puliyanamkunnu, Ottappalam ,",
+            "S",
+            "9549"
+        ],
+        [
+            "TIB",
+            "Triveni Institute of Pharmacy, Kecheri, Thrissur",
+            "S",
+            "9791"
+        ],
+        [
+            "HKB",
+            "Hindustan College of Pharmacy, Kanjirappally",
+            "S",
+            "9834"
+        ],
+        [
+            "KEB",
+            "KMP College of Pharmacy, Perumbavoor, Ernakulam",
+            "S",
+            "10019"
+        ],
+        [
+            "RGB",
+            "Rajiv Gandhi Institute of Pharmacy, Trikaripur,Kasaragod",
+            "S",
+            "10528"
+        ],
+        [
+            "MGB",
+            "MGM Silver Jubilee College of Polytech & Pharmaceutical,",
+            "S",
+            "10693"
+        ],
+        [
+            "NAB",
+            "Nazareth College of Pharmacy, Othera, Thiruvalla,",
+            "S",
+            "10973"
+        ],
+        [
+            "SJB",
+            "St. John's College of Pharmaceutical Scie. & Research,",
+            "S",
+            "11154"
+        ],
+        [
+            "SPB",
+            "Sanjoe College of Pharmaceutical Studies, Kuzhalmannam,",
+            "S",
+            "11414"
+        ],
+        [
+            "MKB",
+            "Malik Deenar College of Pharmacy, Seethangoli, Bela,",
+            "S",
+            "11929"
+        ],
+        [
+            "PPB",
+            "Prime College of Pharmacy, Erattayil, Palakkad",
+            "S",
+            "12111"
+        ],
+        [
+            "MMB",
+            "Mookambika College of Pharmaceutical Scie. & Research,",
+            "S",
+            "12455"
+        ]
+    ],
+    "Artificial Intelligence and Data Science": [
+        [
+            "RET",
+            "Rajagiri School of Engineering and Technology, Kochi.",
+            "S",
+            "5252"
+        ],
+        [
+            "MUT",
+            "Muthoot Institute of Tech. & Science, Puthencurz,",
+            "S",
+            "8858"
+        ],
+        [
+            "MES",
+            "M E S College of Engineering, Kuttippuram.",
+            "S",
+            "16303"
+        ],
+        [
+            "MEA",
+            "M E A Engineering College, Malappuram.",
+            "S",
+            "16486"
+        ],
+        [
+            "SJC",
+            "St. Josephs College of Engineering and Technology,Palai.",
+            "S",
+            "16762"
+        ],
+        [
+            "VJC",
+            "Viswajyothi College of Engg. & Technology,Vazhakulam.",
+            "S",
+            "19474"
+        ],
+        [
+            "JEC",
+            "Jyothi Engineering College, Cheruthuruthy.",
+            "S",
+            "19693"
+        ],
+        [
+            "RCE",
+            "Royal College of Engineering & Technology, Thrissur.",
+            "S",
+            "24040"
+        ],
+        [
+            "VML",
+            "Vimal Jyothi Engineering College, Chemperi.",
+            "S",
+            "26169"
+        ],
+        [
+            "ICE",
+            "Ilahia College of Engineering & Tech., Moovattupuzha.",
+            "S",
+            "27833"
+        ]
+    ],
+    "Applied Electronics & Instrumentation": [
+        [
+            "TVE",
+            "College of Engineering,Thiruvananthapuram.",
+            "G",
+            "1150"
+        ],
+        [
+            "KKE",
+            "Govt. Engineering College, Kozhikkode.",
+            "G",
+            "5614"
+        ],
+        [
+            "RET",
+            "Rajagiri School of Engineering and Technology, Kochi.",
+            "S",
+            "15817"
+        ],
+        [
+            "LBT",
+            "LBS Institute of Tech. for Women, Poojapura, TVPM",
+            "N",
+            "16285"
+        ],
+        [
+            "KMC",
+            "KMCT College of Engineering, Kozhikkode.",
+            "S",
+            "23928"
+        ],
+        [
+            "VML",
+            "Vimal Jyothi Engineering College, Chemperi.",
+            "S",
+            "44648"
+        ],
+        [
+            "PAA",
+            "P A Aziz College of Engineering, Karakulam,",
+            "S",
+            "45515"
+        ],
+        [
+            "MZC",
+            "Mount Zion College of Engg., Pathanamthitta.",
+            "S",
+            "47167"
+        ]
+    ],
+    "B.Tech. (Agricultural Engg.)": [
+        [
+            "KCT",
+            "Kelappaji College of-Agrl. Engg. & Technology, Tavanur.",
+            "G",
+            "3745"
+        ]
+    ],
+    "Artificial Intelligence and Machine Learning": [
+        [
+            "VPE",
+            "Mahaguru Institute of Technology, Mavelikkara, Alappuzha",
+            "S",
+            "16648"
+        ],
+        [
+            "MLM",
+            "Mangalam College of Engineering, Ettumanoor.",
+            "S",
+            "20278"
+        ]
+    ],
+    "B.Tech Agriculture Engineering": [
+        [
+            "STC",
+            "St. Thomas College of Engg. & Technology, Chengannur.",
+            "S",
+            "8972"
+        ]
+    ],
+    "Aeronautical Engineering": [
+        [
+            "MHP",
+            "Ace College of Engineering, .Thiruvallam.",
+            "S",
+            "13963"
+        ],
+        [
+            "RIE",
+            "Rajadhani Institute of Engineering & Tech., Attingal.",
+            "S",
+            "16942"
+        ],
+        [
+            "ILE",
+            "ILM College of Engineering, Perumbavoor, Ernakulam.",
+            "S",
+            "18716"
+        ],
+        [
+            "MZC",
+            "Mount Zion College of Engg., Pathanamthitta.",
+            "S",
+            "21324"
+        ],
+        [
+            "JCE",
+            "Jawaharlal College of Engineering & Technology,",
+            "S",
+            "22508"
+        ]
+    ],
+    "Automobile Engineering": [
+        [
+            "AAE",
+            "Al-Azhar College of Engineering & Technology, Thodupuzha.",
+            "S",
+            "33673"
+        ],
+        [
+            "KMC",
+            "KMCT College of Engineering, Kozhikkode.",
+            "S",
+            "34015"
+        ],
+        [
+            "SCM",
+            "SCMS School of Engg. & Tech., Ernakulam",
+            "S",
+            "37280"
+        ],
+        [
+            "KIT",
+            "Kottayam Institute of Tech. & Science, Pallicathode,",
+            "S",
+            "45011"
+        ],
+        [
+            "MEC",
+            "Malabar College of Engineering & Tech., Wadakancherry.",
+            "S",
+            "47532"
+        ]
+    ],
+    "Bio Technology and Biochemical Engg.": [
+        [
+            "SCT",
+            "S C T College of Engineering, Pappanamcode, TVPM",
+            "N",
+            "6212"
+        ],
+        [
+            "SBC",
+            "Sree Buddha College of Engineering, Nooranadu.",
+            "S",
+            "16970"
+        ],
+        [
+            "MCT",
+            "Mohandas College of Engg. & Tech., Nedumangad, TVM",
+            "S",
+            "16971"
+        ]
+    ],
+    "Bio Medical Engineering": [
+        [
+            "TKI",
+            "T K M Institute of Technology, Ezhukone, Kollam.",
+            "S",
+            "9355"
+        ],
+        [
+            "KMW",
+            "KMCT College of Engineering for Women, Manassery.",
+            "S",
+            "13860"
+        ],
+        [
+            "SHR",
+            "Sahrdaya College of Engineering and Technology, Kodakara.",
+            "S",
+            "14361"
+        ],
+        [
+            "MCC",
+            "Musaliar College of Engineering, Chirayinkeezh.",
+            "S",
+            "17009"
+        ]
+    ],
+    "Bio Technology": [
+        [
+            "MET",
+            "Met's School of Engineering, Mala.",
+            "S",
+            "10134"
+        ],
+        [
+            "SHR",
+            "Sahrdaya College of Engineering and Technology, Kodakara.",
+            "S",
+            "10625"
+        ]
+    ],
+    "Civil Engineering": [
+        [
+            "TVE",
+            "College of Engineering,Thiruvananthapuram.",
+            "G",
+            "1804"
+        ],
+        [
+            "TKM",
+            "T K M College of Engineering, Kollam.",
+            "G",
+            "3342"
+        ],
+        [
+            "TCR",
+            "Govt. Engineering College,Thrissur.",
+            "G",
+            "3433"
+        ],
+        [
+            "TRV",
+            "Govt. Engineering College, Barton Hills, TVM",
+            "G",
+            "3877"
+        ],
+        [
+            "NSS",
+            "N S S College of Engineering, Palakkad.",
+            "G",
+            "4942"
+        ],
+        [
+            "KTE",
+            "Govt. Rajiv Gandhi Institute of Tech., Kottayam.",
+            "G",
+            "4981"
+        ],
+        [
+            "PKD",
+            "Govt. Engineering College, Sreekrishnapuram.",
+            "G",
+            "5154"
+        ],
+        [
+            "MAC",
+            "M A College of Engineering, Kothamangalam.",
+            "G",
+            "5169"
+        ],
+        [
+            "KKE",
+            "Govt. Engineering College, Kozhikkode.",
+            "G",
+            "5177"
+        ],
+        [
+            "KNR",
+            "Govt. College of Engineering, Kannur.",
+            "G",
+            "5199"
+        ],
+        [
+            "LBT",
+            "LBS Institute of Tech. for Women, Poojapura, TVPM",
+            "N",
+            "8141"
+        ],
+        [
+            "RET",
+            "Rajagiri School of Engineering and Technology, Kochi.",
+            "S",
+            "10168"
+        ],
+        [
+            "TLY",
+            "College of Engineering, Thalassery, Kannur.",
+            "N",
+            "12600"
+        ],
+        [
+            "MUT",
+            "Muthoot Institute of Tech. & Science, Puthencurz,",
+            "S",
+            "14144"
+        ],
+        [
+            "VDA",
+            "College of Engineering, Vadakara, Kozhikode.",
+            "N",
+            "15533"
+        ],
+        [
+            "PRP",
+            "College of Engineering & Management, Punnapra.",
+            "N",
+            "15589"
+        ],
+        [
+            "KGR",
+            "College of Engineering, Kidangoor.",
+            "N",
+            "18686"
+        ],
+        [
+            "KSD",
+            "LBS College of Engineering, Kasaragod.",
+            "N",
+            "18920"
+        ],
+        [
+            "AEC",
+            "College of Engineering, Aranmula, Pathanamthitta.",
+            "N",
+            "19674"
+        ],
+        [
+            "PEC",
+            "College of Engineering, Pathanapuram.",
+            "N",
+            "19681"
+        ],
+        [
+            "TKR",
+            "College of Engineering, Thrikarippur, Kasaragod.",
+            "N",
+            "20960"
+        ],
+        [
+            "MES",
+            "M E S College of Engineering, Kuttippuram.",
+            "S",
+            "21065"
+        ],
+        [
+            "MBT",
+            "Mar Baselious College of Engg. & Tech.,",
+            "S",
+            "21188"
+        ],
+        [
+            "IGW",
+            "Indira Gandhi Inst. of Engineering & Tech., Kothamangalam",
+            "S",
+            "21231"
+        ],
+        [
+            "TKI",
+            "T K M Institute of Technology, Ezhukone, Kollam.",
+            "S",
+            "21416"
+        ],
+        [
+            "CEM",
+            "College of Engineering, Muttathara.",
+            "N",
+            "22658"
+        ],
+        [
+            "CCE",
+            "Christ College of Engineering, Irinjalakuda.",
+            "S",
+            "22914"
+        ],
+        [
+            "ASI",
+            "Adi Sankara Institute of Engg. & Tech., Kalady, Ernakulam.",
+            "S",
+            "26319"
+        ],
+        [
+            "FIT",
+            "Federal Institute of Science & Tech., Angamaly.",
+            "S",
+            "26524"
+        ],
+        [
+            "BMC",
+            "Baselios Mathew II College of Engg., Sasthamcotta, Kollam.",
+            "S",
+            "28455"
+        ],
+        [
+            "AJC",
+            "Amal Jyothi College of Engineering, Koovapally, Kanjirapally",
+            "S",
+            "28687"
+        ],
+        [
+            "CEN",
+            "College of Engineering and Technology, Payyannur, Kannur.",
+            "S",
+            "28732"
+        ],
+        [
+            "SJC",
+            "St. Josephs College of Engineering and Technology,Palai.",
+            "S",
+            "31179"
+        ],
+        [
+            "VJC",
+            "Viswajyothi College of Engg. & Technology,Vazhakulam.",
+            "S",
+            "31383"
+        ],
+        [
+            "CMA",
+            "Carmel College of Engg. & Technology, Punnapra,",
+            "S",
+            "31748"
+        ],
+        [
+            "KMC",
+            "KMCT College of Engineering, Kozhikkode.",
+            "S",
+            "32597"
+        ],
+        [
+            "VAS",
+            "Vidya Academy of Science & Technology, Thrissur.",
+            "S",
+            "32624"
+        ],
+        [
+            "BJK",
+            "Bishop Jerome Institute, Kollam.",
+            "S",
+            "32797"
+        ],
+        [
+            "SBC",
+            "Sree Buddha College of Engineering, Nooranadu.",
+            "S",
+            "33237"
+        ],
+        [
+            "MCE",
+            "Marian Engineering College, Kazhakuttom.",
+            "S",
+            "33388"
+        ],
+        [
+            "VAK",
+            "Vidya Academy of Science & Technology, Kilimanoor.",
+            "S",
+            "33429"
+        ],
+        [
+            "VML",
+            "Vimal Jyothi Engineering College, Chemperi.",
+            "S",
+            "35310"
+        ],
+        [
+            "SHR",
+            "Sahrdaya College of Engineering and Technology, Kodakara.",
+            "S",
+            "35523"
+        ],
+        [
+            "AIK",
+            "Albertian Institute of Science and Technology, Kalamassery.",
+            "S",
+            "35687"
+        ],
+        [
+            "MGP",
+            "Saintgits College of Engineering, Kottayam",
+            "S",
+            "35731"
+        ],
+        [
+            "AWH",
+            "AWH Engineering College, Kozhikkode",
+            "S",
+            "35808"
+        ],
+        [
+            "RIE",
+            "Rajadhani Institute of Engineering & Tech., Attingal.",
+            "S",
+            "36280"
+        ],
+        [
+            "MEK",
+            "MES Institute of Tech. & Management, Chathannoor.",
+            "S",
+            "37109"
+        ],
+        [
+            "ATP",
+            "Ahalia School of Engineering & Technology, Pudussery,",
+            "S",
+            "37231"
+        ],
+        [
+            "MCT",
+            "Mohandas College of Engg. & Tech., Nedumangad, TVM",
+            "S",
+            "37510"
+        ],
+        [
+            "JEC",
+            "Jyothi Engineering College, Cheruthuruthy.",
+            "S",
+            "37946"
+        ],
+        [
+            "MEA",
+            "M E A Engineering College, Malappuram.",
+            "S",
+            "38329"
+        ],
+        [
+            "MHP",
+            "Ace College of Engineering, .Thiruvallam.",
+            "S",
+            "38523"
+        ],
+        [
+            "HCE",
+            "Heera College of Engineering & Technology, Nedumangad.",
+            "S",
+            "38554"
+        ],
+        [
+            "SGT",
+            "Sadguru Swamy Nithyananda Insti. of Tech., Karsaragod",
+            "S",
+            "39541"
+        ],
+        [
+            "SCM",
+            "SCMS School of Engg. & Tech., Ernakulam",
+            "S",
+            "39639"
+        ],
+        [
+            "UKP",
+            "UKF College of Engineering & Tech., Parippally.",
+            "S",
+            "39944"
+        ],
+        [
+            "SNT",
+            "Sree Narayana Guru Institute of Science & Tech., N.",
+            "S",
+            "41406"
+        ],
+        [
+            "SNC",
+            "Sree Narayana Guru College of Engg & Technology,",
+            "S",
+            "41993"
+        ],
+        [
+            "TCT",
+            "Trinity College of Engg, Neruvamoodu,",
+            "S",
+            "43332"
+        ],
+        [
+            "JBT",
+            "Jai Bharath College of Management & Engg. Tech.,",
+            "S",
+            "43642"
+        ],
+        [
+            "MUS",
+            "Muslim Association College of Engineering, Venjaramoodu.",
+            "S",
+            "43695"
+        ],
+        [
+            "JCE",
+            "Jawaharlal College of Engineering & Technology,",
+            "S",
+            "43864"
+        ],
+        [
+            "MEE",
+            "MES College of Engineering & Technology, .Ernakulam.",
+            "S",
+            "43930"
+        ],
+        [
+            "YCE",
+            "Younus College of Engg. & Technology, Vadakkevila, Kollam",
+            "S",
+            "44232"
+        ],
+        [
+            "NIE",
+            "Nirmala College of Engineering, Chalakudy.",
+            "S",
+            "44561"
+        ],
+        [
+            "ILE",
+            "ILM College of Engineering, Perumbavoor, Ernakulam.",
+            "S",
+            "44578"
+        ],
+        [
+            "STM",
+            "St. Thomas College of Engineering & Technology, Kannur.",
+            "S",
+            "44630"
+        ],
+        [
+            "VIT",
+            "VISAT Engineering College, Piravam, EKM.",
+            "S",
+            "44641"
+        ],
+        [
+            "MBI",
+            "Mar Baselios Institute of Technology & Science,",
+            "S",
+            "44678"
+        ],
+        [
+            "TOC",
+            "Toc H Institute of Science & Tech., Mulamthurutthy.",
+            "S",
+            "44755"
+        ],
+        [
+            "STI",
+            "St. Thomas Institute of Science & Technology, Kattaikonam.",
+            "S",
+            "45123"
+        ],
+        [
+            "AAE",
+            "Al-Azhar College of Engineering & Technology, Thodupuzha.",
+            "S",
+            "45129"
+        ],
+        [
+            "UNT",
+            "Universal Engineering College, Vallivattom, Thrissur.",
+            "S",
+            "45335"
+        ],
+        [
+            "SNM",
+            "Sree Narayana Mangalam Inst. of Mgmt. & Tech.,",
+            "S",
+            "45554"
+        ],
+        [
+            "VVT",
+            "Veda Vyasa Institute of Technology, Ponnempadam,",
+            "S",
+            "45589"
+        ],
+        [
+            "VKE",
+            "Valia Koonambaikulathamma College of Engg. & tech.,",
+            "S",
+            "45662"
+        ],
+        [
+            "MGE",
+            "MGM College of Engineering & Technology, Ernakulam",
+            "S",
+            "45762"
+        ],
+        [
+            "VPE",
+            "Mahaguru Institute of Technology, Mavelikkara, Alappuzha",
+            "S",
+            "45816"
+        ],
+        [
+            "SPT",
+            "Sreepathy Institute of Management & Tech., Koottanad.",
+            "S",
+            "45829"
+        ],
+        [
+            "LMC",
+            "Lourdes Matha College of Science and Technology,",
+            "S",
+            "45853"
+        ],
+        [
+            "KME",
+            "K M E A Engineering College, Edathala.",
+            "S",
+            "45976"
+        ],
+        [
+            "TJE",
+            "Thejus Engineering College, Erumapetti, Thrissur.",
+            "S",
+            "46023"
+        ],
+        [
+            "MLT",
+            "Malabar Institute of Technology, Anjarakandi.",
+            "S",
+            "46083"
+        ],
+        [
+            "HGW",
+            "Holy Grace Academy of Engineering, Mala, Thrissur.",
+            "S",
+            "46103"
+        ],
+        [
+            "KMW",
+            "KMCT College of Engineering for Women, Manassery.",
+            "S",
+            "46155"
+        ],
+        [
+            "MLM",
+            "Mangalam College of Engineering, Ettumanoor.",
+            "S",
+            "46213"
+        ],
+        [
+            "SIT",
+            "Sarabhai Institute of Science & Technology, Vellanad.",
+            "S",
+            "46238"
+        ],
+        [
+            "IES",
+            "I E S College of Engineering, Chittilappilly.",
+            "S",
+            "46371"
+        ],
+        [
+            "MZW",
+            "Mount Zion Institute of Science & Tehnology, Chengannur",
+            "S",
+            "46451"
+        ],
+        [
+            "JIT",
+            "John Cox Memorial CSI Institute of Technology,",
+            "S",
+            "46545"
+        ],
+        [
+            "AXE",
+            "Axis College of Engineering & Technology, Murikkingal,",
+            "S",
+            "46647"
+        ],
+        [
+            "ECE",
+            "ICCS College of Engineering and Management, Thrissur",
+            "S",
+            "46743"
+        ],
+        [
+            "PRC",
+            "Providence College of Engineering, Chengannur.",
+            "S",
+            "46808"
+        ],
+        [
+            "MET",
+            "Met's School of Engineering, Mala.",
+            "S",
+            "46870"
+        ],
+        [
+            "GIT",
+            "Gurudeva Institute of Science & Technology, Puthuppally.",
+            "S",
+            "46900"
+        ],
+        [
+            "MCC",
+            "Musaliar College of Engineering, Chirayinkeezh.",
+            "S",
+            "46939"
+        ],
+        [
+            "MBC",
+            "Mar Baselios Christian College of Engg. & Tech., Peermede.",
+            "S",
+            "46949"
+        ],
+        [
+            "SBW",
+            "Sree Buddha College of Engineering, Elavumthitta,",
+            "S",
+            "46991"
+        ],
+        [
+            "KIT",
+            "Kottayam Institute of Tech. & Science, Pallicathode,",
+            "S",
+            "47012"
+        ],
+        [
+            "MCK",
+            "Musaliar College of Engineering & Tech., Pathanamthitta.",
+            "S",
+            "47031"
+        ],
+        [
+            "CKC",
+            "Christ Knowledge City, Kuzhoor,EKM",
+            "S",
+            "47045"
+        ],
+        [
+            "MZC",
+            "Mount Zion College of Engg., Pathanamthitta.",
+            "S",
+            "47108"
+        ],
+        [
+            "PAA",
+            "P A Aziz College of Engineering, Karakulam,",
+            "S",
+            "47164"
+        ],
+        [
+            "CCV",
+            "MGM College of Engineering and Pharmaceutical Sciences,",
+            "S",
+            "47276"
+        ],
+        [
+            "RCE",
+            "Royal College of Engineering & Technology, Thrissur.",
+            "S",
+            "47297"
+        ],
+        [
+            "SNG",
+            "Sree Narayana Gurukulam College of Engineering,",
+            "S",
+            "47313"
+        ],
+        [
+            "AME",
+            "Rajadhani Institute of Science and Technology, Palakkad",
+            "S",
+            "47326"
+        ],
+        [
+            "ICE",
+            "Ilahia College of Engineering & Tech., Moovattupuzha.",
+            "S",
+            "47330"
+        ],
+        [
+            "SNP",
+            "Sree Narayana Institute of Technology, Adoor",
+            "S",
+            "47355"
+        ],
+        [
+            "MEC",
+            "Malabar College of Engineering & Tech., Wadakancherry.",
+            "S",
+            "47374"
+        ],
+        [
+            "AAP",
+            "Al-Ameen College of Engineering, Pattambi.",
+            "S",
+            "47408"
+        ],
+        [
+            "DMC",
+            "M Dasan Memmorial Co-op. Inst. of Engg. & Inf. Tech.,",
+            "S",
+            "47434"
+        ],
+        [
+            "PRS",
+            "PRS College of Engineering & Tech., Neyyattinkara.",
+            "S",
+            "47460"
+        ],
+        [
+            "STC",
+            "St. Thomas College of Engg. & Technology, Chengannur.",
+            "S",
+            "47477"
+        ],
+        [
+            "SHM",
+            "Shahul Hameed Memorial Engineering College, Kadakkal,",
+            "S",
+            "47504"
+        ],
+        [
+            "EKC",
+            "Eranad Knowledgecity Technical Campus, Cherukulam,",
+            "S",
+            "47534"
+        ],
+        [
+            "TCE",
+            "Toms College of Engineering, Mattakara, Kottayam",
+            "S",
+            "-"
+        ],
+        [
+            "TEC",
+            "Travancore Engineering College, Oyoor, Kollam.",
+            "S",
+            "-"
+        ]
+    ],
+    "Computer Science & Desigb": [
+        [
+            "FIT",
+            "Federal Institute of Science & Tech., Angamaly.",
+            "S",
+            "12797"
+        ],
+        [
+            "VJC",
+            "Viswajyothi College of Engg. & Technology,Vazhakulam.",
+            "S",
+            "22115"
+        ],
+        [
+            "VML",
+            "Vimal Jyothi Engineering College, Chemperi.",
+            "S",
+            "34370"
+        ]
+    ],
+    "Chemical Engineering": [
+        [
+            "TCR",
+            "Govt. Engineering College,Thrissur.",
+            "G",
+            "2272"
+        ],
+        [
+            "TKM",
+            "T K M College of Engineering, Kollam.",
+            "G",
+            "3187"
+        ],
+        [
+            "KKE",
+            "Govt. Engineering College, Kozhikkode.",
+            "G",
+            "3248"
+        ],
+        [
+            "AJC",
+            "Amal Jyothi College of Engineering, Koovapally, Kanjirapally",
+            "S",
+            "14231"
+        ],
+        [
+            "MGP",
+            "Saintgits College of Engineering, Kottayam",
+            "S",
+            "18573"
+        ],
+        [
+            "CCV",
+            "MGM College of Engineering and Pharmaceutical Sciences,",
+            "S",
+            "23712"
+        ],
+        [
+            "MLM",
+            "Mangalam College of Engineering, Ettumanoor.",
+            "S",
+            "29987"
+        ],
+        [
+            "TCE",
+            "Toms College of Engineering, Mattakara, Kottayam",
+            "S",
+            "30613"
+        ]
+    ],
+    "Computer Science & Engg. (Artificial Intelligence & Machine Learning)": [
+        [
+            "SCT",
+            "S C T College of Engineering, Pappanamcode, TVPM",
+            "N",
+            "3114"
+        ],
+        [
+            "STC",
+            "St. Thomas College of Engg. & Technology, Chengannur.",
+            "S",
+            "18262"
+        ],
+        [
+            "SBC",
+            "Sree Buddha College of Engineering, Nooranadu.",
+            "S",
+            "23656"
+        ]
+    ],
+    "Computer Science & Engineering (Data Science)": [
+        [
+            "MAC",
+            "M A College of Engineering, Kothamangalam.",
+            "G",
+            "2059"
+        ],
+        [
+            "SCM",
+            "SCMS School of Engg. & Tech., Ernakulam",
+            "S",
+            "12735"
+        ]
+    ],
+    "Computer Science & Engineering": [
+        [
+            "TVE",
+            "College of Engineering,Thiruvananthapuram.",
+            "G",
+            "95"
+        ],
+        [
+            "TCR",
+            "Govt. Engineering College,Thrissur.",
+            "G",
+            "265"
+        ],
+        [
+            "TKM",
+            "T K M College of Engineering, Kollam.",
+            "G",
+            "468"
+        ],
+        [
+            "MDL",
+            "Model Engineering College, Thrikkakkara.",
+            "N",
+            "538"
+        ],
+        [
+            "WYD",
+            "Govt. Engineering College, Mananthavady.",
+            "G",
+            "665"
+        ],
+        [
+            "MAC",
+            "M A College of Engineering, Kothamangalam.",
+            "G",
+            "760"
+        ],
+        [
+            "PKD",
+            "Govt. Engineering College, Sreekrishnapuram.",
+            "G",
+            "781"
+        ],
+        [
+            "IDK",
+            "Engineering College, Idukki",
+            "G",
+            "855"
+        ],
+        [
+            "KTE",
+            "Govt. Rajiv Gandhi Institute of Tech., Kottayam.",
+            "G",
+            "1000"
+        ],
+        [
+            "KNR",
+            "Govt. College of Engineering, Kannur.",
+            "G",
+            "1086"
+        ],
+        [
+            "NSS",
+            "N S S College of Engineering, Palakkad.",
+            "G",
+            "1106"
+        ],
+        [
+            "SCT",
+            "S C T College of Engineering, Pappanamcode, TVPM",
+            "N",
+            "1849"
+        ],
+        [
+            "RET",
+            "Rajagiri School of Engineering and Technology, Kochi.",
+            "S",
+            "2673"
+        ],
+        [
+            "CHN",
+            "College of Engineering, Chengannur, Alappuzha.",
+            "N",
+            "4427"
+        ],
+        [
+            "MUT",
+            "Muthoot Institute of Tech. & Science, Puthencurz,",
+            "S",
+            "4736"
+        ],
+        [
+            "FIT",
+            "Federal Institute of Science & Tech., Angamaly.",
+            "S",
+            "5770"
+        ],
+        [
+            "ADR",
+            "College of Engineering, Adoor",
+            "N",
+            "6462"
+        ],
+        [
+            "LBT",
+            "LBS Institute of Tech. for Women, Poojapura, TVPM",
+            "N",
+            "6671"
+        ],
+        [
+            "CEA",
+            "College of Engineering, Attingal, Thiruvananthapuram.",
+            "N",
+            "6906"
+        ],
+        [
+            "UCK",
+            "University College of Engineering, Kariavattom.",
+            "N",
+            "7183"
+        ],
+        [
+            "CCE",
+            "Christ College of Engineering, Irinjalakuda.",
+            "S",
+            "7440"
+        ],
+        [
+            "MBT",
+            "Mar Baselious College of Engg. & Tech.,",
+            "S",
+            "8019"
+        ],
+        [
+            "TLY",
+            "College of Engineering, Thalassery, Kannur.",
+            "N",
+            "8336"
+        ],
+        [
+            "VDA",
+            "College of Engineering, Vadakara, Kozhikode.",
+            "N",
+            "9136"
+        ],
+        [
+            "MGP",
+            "Saintgits College of Engineering, Kottayam",
+            "S",
+            "9228"
+        ],
+        [
+            "SCM",
+            "SCMS School of Engg. & Tech., Ernakulam",
+            "S",
+            "9624"
+        ],
+        [
+            "AJC",
+            "Amal Jyothi College of Engineering, Koovapally, Kanjirapally",
+            "S",
+            "9813"
+        ],
+        [
+            "PRN",
+            "College of Engineering Perumon.",
+            "N",
+            "9820"
+        ],
+        [
+            "CEC",
+            "College of Engineering, Cherthala, Alappuzha.",
+            "N",
+            "10990"
+        ],
+        [
+            "SJC",
+            "St. Josephs College of Engineering and Technology,Palai.",
+            "S",
+            "11635"
+        ],
+        [
+            "KSD",
+            "LBS College of Engineering, Kasaragod.",
+            "N",
+            "11781"
+        ],
+        [
+            "VJC",
+            "Viswajyothi College of Engg. & Technology,Vazhakulam.",
+            "S",
+            "11835"
+        ],
+        [
+            "PTA",
+            "College of Engineering, Kallooppara.",
+            "N",
+            "11963"
+        ],
+        [
+            "ASI",
+            "Adi Sankara Institute of Engg. & Tech., Kalady, Ernakulam.",
+            "S",
+            "13052"
+        ],
+        [
+            "KGR",
+            "College of Engineering, Kidangoor.",
+            "N",
+            "13225"
+        ],
+        [
+            "SHR",
+            "Sahrdaya College of Engineering and Technology, Kodakara.",
+            "S",
+            "13680"
+        ],
+        [
+            "TKI",
+            "T K M Institute of Technology, Ezhukone, Kollam.",
+            "S",
+            "13799"
+        ],
+        [
+            "PRP",
+            "College of Engineering & Management, Punnapra.",
+            "N",
+            "13802"
+        ],
+        [
+            "TKR",
+            "College of Engineering, Thrikarippur, Kasaragod.",
+            "N",
+            "13959"
+        ],
+        [
+            "MES",
+            "M E S College of Engineering, Kuttippuram.",
+            "S",
+            "14296"
+        ],
+        [
+            "TOC",
+            "Toc H Institute of Science & Tech., Mulamthurutthy.",
+            "S",
+            "14487"
+        ],
+        [
+            "MNR",
+            "College of Engineering, Munnar.",
+            "N",
+            "14835"
+        ],
+        [
+            "MBI",
+            "Mar Baselios Institute of Technology & Science,",
+            "S",
+            "15303"
+        ],
+        [
+            "VAS",
+            "Vidya Academy of Science & Technology, Thrissur.",
+            "S",
+            "15540"
+        ],
+        [
+            "AEC",
+            "College of Engineering, Aranmula, Pathanamthitta.",
+            "N",
+            "15615"
+        ],
+        [
+            "UCE",
+            "University College of Engineering,Thodupuzha.",
+            "N",
+            "15656"
+        ],
+        [
+            "KNP",
+            "College of Engineering, Karunagappally.",
+            "N",
+            "15996"
+        ],
+        [
+            "SBC",
+            "Sree Buddha College of Engineering, Nooranadu.",
+            "S",
+            "16841"
+        ],
+        [
+            "JEC",
+            "Jyothi Engineering College, Cheruthuruthy.",
+            "S",
+            "17184"
+        ],
+        [
+            "CEK",
+            "College of Engineering, Kottarakkara, Kollam.",
+            "N",
+            "17412"
+        ],
+        [
+            "MCE",
+            "Marian Engineering College, Kazhakuttom.",
+            "S",
+            "17671"
+        ],
+        [
+            "CEM",
+            "College of Engineering, Muttathara.",
+            "N",
+            "18477"
+        ],
+        [
+            "PJR",
+            "College of Engineering, Poonjar.",
+            "N",
+            "18599"
+        ],
+        [
+            "AIK",
+            "Albertian Institute of Science and Technology, Kalamassery.",
+            "S",
+            "19207"
+        ],
+        [
+            "PEC",
+            "College of Engineering, Pathanapuram.",
+            "N",
+            "19447"
+        ],
+        [
+            "KMC",
+            "KMCT College of Engineering, Kozhikkode.",
+            "S",
+            "20172"
+        ],
+        [
+            "VML",
+            "Vimal Jyothi Engineering College, Chemperi.",
+            "S",
+            "20433"
+        ],
+        [
+            "CMA",
+            "Carmel College of Engg. & Technology, Punnapra,",
+            "S",
+            "21477"
+        ],
+        [
+            "ATP",
+            "Ahalia School of Engineering & Technology, Pudussery,",
+            "S",
+            "21527"
+        ],
+        [
+            "IGW",
+            "Indira Gandhi Inst. of Engineering & Tech., Kothamangalam",
+            "S",
+            "21848"
+        ],
+        [
+            "KVE",
+            "KVM College of Engineering and Information Technology,",
+            "S",
+            "22845"
+        ],
+        [
+            "MEA",
+            "M E A Engineering College, Malappuram.",
+            "S",
+            "23177"
+        ],
+        [
+            "NIE",
+            "Nirmala College of Engineering, Chalakudy.",
+            "S",
+            "23472"
+        ],
+        [
+            "MBC",
+            "Mar Baselios Christian College of Engg. & Tech., Peermede.",
+            "S",
+            "23709"
+        ],
+        [
+            "RIE",
+            "Rajadhani Institute of Engineering & Tech., Attingal.",
+            "S",
+            "24488"
+        ],
+        [
+            "KME",
+            "K M E A Engineering College, Edathala.",
+            "S",
+            "25192"
+        ],
+        [
+            "PRC",
+            "Providence College of Engineering, Chengannur.",
+            "S",
+            "26042"
+        ],
+        [
+            "VAK",
+            "Vidya Academy of Science & Technology, Kilimanoor.",
+            "S",
+            "26160"
+        ],
+        [
+            "BMC",
+            "Baselios Mathew II College of Engg., Sasthamcotta, Kollam.",
+            "S",
+            "26331"
+        ],
+        [
+            "AWH",
+            "AWH Engineering College, Kozhikkode",
+            "S",
+            "26711"
+        ],
+        [
+            "MEE",
+            "MES College of Engineering & Technology, .Ernakulam.",
+            "S",
+            "26770"
+        ],
+        [
+            "MCT",
+            "Mohandas College of Engg. & Tech., Nedumangad, TVM",
+            "S",
+            "27337"
+        ],
+        [
+            "SNG",
+            "Sree Narayana Gurukulam College of Engineering,",
+            "S",
+            "28532"
+        ],
+        [
+            "JCE",
+            "Jawaharlal College of Engineering & Technology,",
+            "S",
+            "28666"
+        ],
+        [
+            "SNC",
+            "Sree Narayana Guru College of Engg & Technology,",
+            "S",
+            "29382"
+        ],
+        [
+            "ICE",
+            "Ilahia College of Engineering & Tech., Moovattupuzha.",
+            "S",
+            "30196"
+        ],
+        [
+            "AAE",
+            "Al-Azhar College of Engineering & Technology, Thodupuzha.",
+            "S",
+            "30274"
+        ],
+        [
+            "HCE",
+            "Heera College of Engineering & Technology, Nedumangad.",
+            "S",
+            "30403"
+        ],
+        [
+            "VIT",
+            "VISAT Engineering College, Piravam, EKM.",
+            "S",
+            "31430"
+        ],
+        [
+            "RCE",
+            "Royal College of Engineering & Technology, Thrissur.",
+            "S",
+            "31579"
+        ],
+        [
+            "DMC",
+            "M Dasan Memmorial Co-op. Inst. of Engg. & Inf. Tech.,",
+            "S",
+            "31591"
+        ],
+        [
+            "UNT",
+            "Universal Engineering College, Vallivattom, Thrissur.",
+            "S",
+            "31730"
+        ],
+        [
+            "CKC",
+            "Christ Knowledge City, Kuzhoor,EKM",
+            "S",
+            "32089"
+        ],
+        [
+            "NCE",
+            "Nehru College of Engg. & Research Centre, Thiruvillwamala.",
+            "S",
+            "32334"
+        ],
+        [
+            "TJE",
+            "Thejus Engineering College, Erumapetti, Thrissur.",
+            "S",
+            "32414"
+        ],
+        [
+            "SPT",
+            "Sreepathy Institute of Management & Tech., Koottanad.",
+            "S",
+            "32557"
+        ],
+        [
+            "STM",
+            "St. Thomas College of Engineering & Technology, Kannur.",
+            "S",
+            "32852"
+        ],
+        [
+            "ECE",
+            "ICCS College of Engineering and Management, Thrissur",
+            "S",
+            "33094"
+        ],
+        [
+            "JIT",
+            "John Cox Memorial CSI Institute of Technology,",
+            "S",
+            "33099"
+        ],
+        [
+            "STC",
+            "St. Thomas College of Engg. & Technology, Chengannur.",
+            "S",
+            "33160"
+        ],
+        [
+            "MLM",
+            "Mangalam College of Engineering, Ettumanoor.",
+            "S",
+            "33378"
+        ],
+        [
+            "AXE",
+            "Axis College of Engineering & Technology, Murikkingal,",
+            "S",
+            "33601"
+        ],
+        [
+            "YCE",
+            "Younus College of Engg. & Technology, Vadakkevila, Kollam",
+            "S",
+            "33819"
+        ],
+        [
+            "IES",
+            "I E S College of Engineering, Chittilappilly.",
+            "S",
+            "33943"
+        ],
+        [
+            "PAA",
+            "P A Aziz College of Engineering, Karakulam,",
+            "S",
+            "34575"
+        ],
+        [
+            "HGW",
+            "Holy Grace Academy of Engineering, Mala, Thrissur.",
+            "S",
+            "34585"
+        ],
+        [
+            "AME",
+            "Rajadhani Institute of Science and Technology, Palakkad",
+            "S",
+            "34917"
+        ],
+        [
+            "UKP",
+            "UKF College of Engineering & Tech., Parippally.",
+            "S",
+            "35311"
+        ],
+        [
+            "EKC",
+            "Eranad Knowledgecity Technical Campus, Cherukulam,",
+            "S",
+            "35458"
+        ],
+        [
+            "MEK",
+            "MES Institute of Tech. & Management, Chathannoor.",
+            "S",
+            "35643"
+        ],
+        [
+            "SBW",
+            "Sree Buddha College of Engineering, Elavumthitta,",
+            "S",
+            "36074"
+        ],
+        [
+            "PRS",
+            "PRS College of Engineering & Tech., Neyyattinkara.",
+            "S",
+            "36168"
+        ],
+        [
+            "JBT",
+            "Jai Bharath College of Management & Engg. Tech.,",
+            "S",
+            "36432"
+        ],
+        [
+            "KMW",
+            "KMCT College of Engineering for Women, Manassery.",
+            "S",
+            "36602"
+        ],
+        [
+            "ILE",
+            "ILM College of Engineering, Perumbavoor, Ernakulam.",
+            "S",
+            "36633"
+        ],
+        [
+            "SNM",
+            "Sree Narayana Mangalam Inst. of Mgmt. & Tech.,",
+            "S",
+            "36643"
+        ],
+        [
+            "VPE",
+            "Mahaguru Institute of Technology, Mavelikkara, Alappuzha",
+            "S",
+            "36745"
+        ],
+        [
+            "MET",
+            "Met's School of Engineering, Mala.",
+            "S",
+            "36755"
+        ],
+        [
+            "LMC",
+            "Lourdes Matha College of Science and Technology,",
+            "S",
+            "36790"
+        ],
+        [
+            "MLT",
+            "Malabar Institute of Technology, Anjarakandi.",
+            "S",
+            "36928"
+        ],
+        [
+            "MGE",
+            "MGM College of Engineering & Technology, Ernakulam",
+            "S",
+            "37273"
+        ],
+        [
+            "MZW",
+            "Mount Zion Institute of Science & Tehnology, Chengannur",
+            "S",
+            "37363"
+        ],
+        [
+            "VVT",
+            "Veda Vyasa Institute of Technology, Ponnempadam,",
+            "S",
+            "37859"
+        ],
+        [
+            "SNT",
+            "Sree Narayana Guru Institute of Science & Tech., N.",
+            "S",
+            "37878"
+        ],
+        [
+            "VKE",
+            "Valia Koonambaikulathamma College of Engg. & tech.,",
+            "S",
+            "38372"
+        ],
+        [
+            "SIT",
+            "Sarabhai Institute of Science & Technology, Vellanad.",
+            "S",
+            "38450"
+        ],
+        [
+            "KIT",
+            "Kottayam Institute of Tech. & Science, Pallicathode,",
+            "S",
+            "38781"
+        ],
+        [
+            "GIT",
+            "Gurudeva Institute of Science & Technology, Puthuppally.",
+            "S",
+            "39575"
+        ],
+        [
+            "MGC",
+            "M G College of Engineering, Thiruvallom.",
+            "S",
+            "40372"
+        ],
+        [
+            "MZC",
+            "Mount Zion College of Engg., Pathanamthitta.",
+            "S",
+            "40455"
+        ],
+        [
+            "MEC",
+            "Malabar College of Engineering & Tech., Wadakancherry.",
+            "S",
+            "40463"
+        ],
+        [
+            "MCK",
+            "Musaliar College of Engineering & Tech., Pathanamthitta.",
+            "S",
+            "40715"
+        ],
+        [
+            "STI",
+            "St. Thomas Institute of Science & Technology, Kattaikonam.",
+            "S",
+            "40789"
+        ],
+        [
+            "CCV",
+            "MGM College of Engineering and Pharmaceutical Sciences,",
+            "S",
+            "41413"
+        ],
+        [
+            "TEC",
+            "Travancore Engineering College, Oyoor, Kollam.",
+            "S",
+            "41856"
+        ],
+        [
+            "TCE",
+            "Toms College of Engineering, Mattakara, Kottayam",
+            "S",
+            "42147"
+        ],
+        [
+            "SGT",
+            "Sadguru Swamy Nithyananda Insti. of Tech., Karsaragod",
+            "S",
+            "42600"
+        ],
+        [
+            "MUS",
+            "Muslim Association College of Engineering, Venjaramoodu.",
+            "S",
+            "43061"
+        ],
+        [
+            "MCC",
+            "Musaliar College of Engineering, Chirayinkeezh.",
+            "S",
+            "46632"
+        ],
+        [
+            "SHM",
+            "Shahul Hameed Memorial Engineering College, Kadakkal,",
+            "S",
+            "47264"
+        ]
+    ],
+    "Computer Science & Engineering (Artificial Intelligence)": [
+        [
+            "MUT",
+            "Muthoot Institute of Tech. & Science, Puthencurz,",
+            "S",
+            "6945"
+        ],
+        [
+            "ASI",
+            "Adi Sankara Institute of Engg. & Tech., Kalady, Ernakulam.",
+            "S",
+            "14706"
+        ]
+    ],
+    "Computer Science and Business Systems": [
+        [
+            "RET",
+            "Rajagiri School of Engineering and Technology, Kochi.",
+            "S",
+            "5379"
+        ]
+    ],
+    "Civil and Environmental Engineering": [
+        [
+            "SCM",
+            "SCMS School of Engg. & Tech., Ernakulam",
+            "S",
+            "11632"
+        ]
+    ],
+    "Computer Science and Engineering (Cyber Security)": [
+        [
+            "PTA",
+            "College of Engineering, Kallooppara.",
+            "N",
+            "10778"
+        ],
+        [
+            "RIE",
+            "Rajadhani Institute of Engineering & Tech., Attingal.",
+            "S",
+            "20932"
+        ],
+        [
+            "ICE",
+            "Ilahia College of Engineering & Tech., Moovattupuzha.",
+            "S",
+            "26659"
+        ]
+    ],
+    "Dairy Technology.": [
+        [
+            "CDT",
+            "College of Dairy Science & Tech., Mannuthy, Thrissur",
+            "G",
+            "3656"
+        ],
+        [
+            "CDV",
+            "College of Dairy Science & Tech., Karakulam P O, TVM.",
+            "G",
+            "5295"
+        ],
+        [
+            "CDI",
+            "College of Dairy Science & Tech., Idukki",
+            "G",
+            "5362"
+        ],
+        [
+            "CDP",
+            "College of Dairy Science & Tech., Pookode Campus,",
+            "G",
+            "5435"
+        ]
+    ],
+    "Electronics & Biomedical Engineering": [
+        [
+            "MDL",
+            "Model Engineering College, Thrikkakkara.",
+            "N",
+            "5903"
+        ],
+        [
+            "ASI",
+            "Adi Sankara Institute of Engg. & Tech., Kalady, Ernakulam.",
+            "S",
+            "27083"
+        ]
+    ],
+    "Electronics & Communication Engineering": [
+        [
+            "TVE",
+            "College of Engineering,Thiruvananthapuram.",
+            "G",
+            "193"
+        ],
+        [
+            "TCR",
+            "Govt. Engineering College,Thrissur.",
+            "G",
+            "644"
+        ],
+        [
+            "TKM",
+            "T K M College of Engineering, Kollam.",
+            "G",
+            "1153"
+        ],
+        [
+            "TRV",
+            "Govt. Engineering College, Barton Hills, TVM",
+            "G",
+            "1588"
+        ],
+        [
+            "MDL",
+            "Model Engineering College, Thrikkakkara.",
+            "N",
+            "1917"
+        ],
+        [
+            "KTE",
+            "Govt. Rajiv Gandhi Institute of Tech., Kottayam.",
+            "G",
+            "2390"
+        ],
+        [
+            "MAC",
+            "M A College of Engineering, Kothamangalam.",
+            "G",
+            "2474"
+        ],
+        [
+            "NSS",
+            "N S S College of Engineering, Palakkad.",
+            "G",
+            "3398"
+        ],
+        [
+            "IDK",
+            "Engineering College, Idukki",
+            "G",
+            "3587"
+        ],
+        [
+            "PKD",
+            "Govt. Engineering College, Sreekrishnapuram.",
+            "G",
+            "3801"
+        ],
+        [
+            "KNR",
+            "Govt. College of Engineering, Kannur.",
+            "G",
+            "3865"
+        ],
+        [
+            "KKE",
+            "Govt. Engineering College, Kozhikkode.",
+            "G",
+            "3867"
+        ],
+        [
+            "SCT",
+            "S C T College of Engineering, Pappanamcode, TVPM",
+            "N",
+            "5330"
+        ],
+        [
+            "RET",
+            "Rajagiri School of Engineering and Technology, Kochi.",
+            "S",
+            "7834"
+        ],
+        [
+            "LBT",
+            "LBS Institute of Tech. for Women, Poojapura, TVPM",
+            "N",
+            "8622"
+        ],
+        [
+            "MUT",
+            "Muthoot Institute of Tech. & Science, Puthencurz,",
+            "S",
+            "9629"
+        ],
+        [
+            "UCK",
+            "University College of Engineering, Kariavattom.",
+            "N",
+            "11318"
+        ],
+        [
+            "CHN",
+            "College of Engineering, Chengannur, Alappuzha.",
+            "N",
+            "11762"
+        ],
+        [
+            "FIT",
+            "Federal Institute of Science & Tech., Angamaly.",
+            "S",
+            "13432"
+        ],
+        [
+            "UCC",
+            "Calicut Unity. Institute of Engineering & Tech., Tenhipalam.",
+            "N",
+            "16437"
+        ],
+        [
+            "MBT",
+            "Mar Baselious College of Engg. & Tech.,",
+            "S",
+            "17010"
+        ],
+        [
+            "CEA",
+            "College of Engineering, Attingal, Thiruvananthapuram.",
+            "N",
+            "17605"
+        ],
+        [
+            "MGP",
+            "Saintgits College of Engineering, Kottayam",
+            "S",
+            "17897"
+        ],
+        [
+            "CCE",
+            "Christ College of Engineering, Irinjalakuda.",
+            "S",
+            "18093"
+        ],
+        [
+            "ADR",
+            "College of Engineering, Adoor",
+            "N",
+            "19433"
+        ],
+        [
+            "SCM",
+            "SCMS School of Engg. & Tech., Ernakulam",
+            "S",
+            "19449"
+        ],
+        [
+            "SJC",
+            "St. Josephs College of Engineering and Technology,Palai.",
+            "S",
+            "19973"
+        ],
+        [
+            "TLY",
+            "College of Engineering, Thalassery, Kannur.",
+            "N",
+            "20141"
+        ],
+        [
+            "PRN",
+            "College of Engineering Perumon.",
+            "N",
+            "20488"
+        ],
+        [
+            "KSD",
+            "LBS College of Engineering, Kasaragod.",
+            "N",
+            "20516"
+        ],
+        [
+            "VDA",
+            "College of Engineering, Vadakara, Kozhikode.",
+            "N",
+            "21732"
+        ],
+        [
+            "TOC",
+            "Toc H Institute of Science & Tech., Mulamthurutthy.",
+            "S",
+            "22190"
+        ],
+        [
+            "VJC",
+            "Viswajyothi College of Engg. & Technology,Vazhakulam.",
+            "S",
+            "22762"
+        ],
+        [
+            "TKR",
+            "College of Engineering, Thrikarippur, Kasaragod.",
+            "N",
+            "24092"
+        ],
+        [
+            "AJC",
+            "Amal Jyothi College of Engineering, Koovapally, Kanjirapally",
+            "S",
+            "24486"
+        ],
+        [
+            "CEC",
+            "College of Engineering, Cherthala, Alappuzha.",
+            "N",
+            "26011"
+        ],
+        [
+            "IGW",
+            "Indira Gandhi Inst. of Engineering & Tech., Kothamangalam",
+            "S",
+            "26994"
+        ],
+        [
+            "ASI",
+            "Adi Sankara Institute of Engg. & Tech., Kalady, Ernakulam.",
+            "S",
+            "27457"
+        ],
+        [
+            "MES",
+            "M E S College of Engineering, Kuttippuram.",
+            "S",
+            "27473"
+        ],
+        [
+            "PRP",
+            "College of Engineering & Management, Punnapra.",
+            "N",
+            "27537"
+        ],
+        [
+            "AEC",
+            "College of Engineering, Aranmula, Pathanamthitta.",
+            "N",
+            "28495"
+        ],
+        [
+            "KGR",
+            "College of Engineering, Kidangoor.",
+            "N",
+            "28693"
+        ],
+        [
+            "CEM",
+            "College of Engineering, Muttathara.",
+            "N",
+            "28830"
+        ],
+        [
+            "VAS",
+            "Vidya Academy of Science & Technology, Thrissur.",
+            "S",
+            "29504"
+        ],
+        [
+            "KNP",
+            "College of Engineering, Karunagappally.",
+            "N",
+            "29515"
+        ],
+        [
+            "CEK",
+            "College of Engineering, Kottarakkara, Kollam.",
+            "N",
+            "29772"
+        ],
+        [
+            "MNR",
+            "College of Engineering, Munnar.",
+            "N",
+            "29845"
+        ],
+        [
+            "SHR",
+            "Sahrdaya College of Engineering and Technology, Kodakara.",
+            "S",
+            "30134"
+        ],
+        [
+            "ATP",
+            "Ahalia School of Engineering & Technology, Pudussery,",
+            "S",
+            "32394"
+        ],
+        [
+            "UCE",
+            "University College of Engineering,Thodupuzha.",
+            "N",
+            "32409"
+        ],
+        [
+            "PTA",
+            "College of Engineering, Kallooppara.",
+            "N",
+            "33072"
+        ],
+        [
+            "CEN",
+            "College of Engineering and Technology, Payyannur, Kannur.",
+            "S",
+            "33574"
+        ],
+        [
+            "AIK",
+            "Albertian Institute of Science and Technology, Kalamassery.",
+            "S",
+            "33654"
+        ],
+        [
+            "JEC",
+            "Jyothi Engineering College, Cheruthuruthy.",
+            "S",
+            "33695"
+        ],
+        [
+            "PEC",
+            "College of Engineering, Pathanapuram.",
+            "N",
+            "33905"
+        ],
+        [
+            "KIT",
+            "Kottayam Institute of Tech. & Science, Pallicathode,",
+            "S",
+            "35242"
+        ],
+        [
+            "BMC",
+            "Baselios Mathew II College of Engg., Sasthamcotta, Kollam.",
+            "S",
+            "36058"
+        ],
+        [
+            "KME",
+            "K M E A Engineering College, Edathala.",
+            "S",
+            "36381"
+        ],
+        [
+            "MCE",
+            "Marian Engineering College, Kazhakuttom.",
+            "S",
+            "36408"
+        ],
+        [
+            "PJR",
+            "College of Engineering, Poonjar.",
+            "N",
+            "36737"
+        ],
+        [
+            "PRC",
+            "Providence College of Engineering, Chengannur.",
+            "S",
+            "37675"
+        ],
+        [
+            "RIE",
+            "Rajadhani Institute of Engineering & Tech., Attingal.",
+            "S",
+            "39181"
+        ],
+        [
+            "LMC",
+            "Lourdes Matha College of Science and Technology,",
+            "S",
+            "39567"
+        ],
+        [
+            "SBC",
+            "Sree Buddha College of Engineering, Nooranadu.",
+            "S",
+            "40506"
+        ],
+        [
+            "NCE",
+            "Nehru College of Engg. & Research Centre, Thiruvillwamala.",
+            "S",
+            "40773"
+        ],
+        [
+            "HGW",
+            "Holy Grace Academy of Engineering, Mala, Thrissur.",
+            "S",
+            "41215"
+        ],
+        [
+            "MLT",
+            "Malabar Institute of Technology, Anjarakandi.",
+            "S",
+            "41550"
+        ],
+        [
+            "MGC",
+            "M G College of Engineering, Thiruvallom.",
+            "S",
+            "41888"
+        ],
+        [
+            "SIT",
+            "Sarabhai Institute of Science & Technology, Vellanad.",
+            "S",
+            "42059"
+        ],
+        [
+            "VML",
+            "Vimal Jyothi Engineering College, Chemperi.",
+            "S",
+            "42133"
+        ],
+        [
+            "ILE",
+            "ILM College of Engineering, Perumbavoor, Ernakulam.",
+            "S",
+            "42150"
+        ],
+        [
+            "CKC",
+            "Christ Knowledge City, Kuzhoor,EKM",
+            "S",
+            "42499"
+        ],
+        [
+            "MBI",
+            "Mar Baselios Institute of Technology & Science,",
+            "S",
+            "43078"
+        ],
+        [
+            "STI",
+            "St. Thomas Institute of Science & Technology, Kattaikonam.",
+            "S",
+            "43601"
+        ],
+        [
+            "VVT",
+            "Veda Vyasa Institute of Technology, Ponnempadam,",
+            "S",
+            "43810"
+        ],
+        [
+            "MEE",
+            "MES College of Engineering & Technology, .Ernakulam.",
+            "S",
+            "43889"
+        ],
+        [
+            "STM",
+            "St. Thomas College of Engineering & Technology, Kannur.",
+            "S",
+            "44074"
+        ],
+        [
+            "CCV",
+            "MGM College of Engineering and Pharmaceutical Sciences,",
+            "S",
+            "44106"
+        ],
+        [
+            "MCK",
+            "Musaliar College of Engineering & Tech., Pathanamthitta.",
+            "S",
+            "44151"
+        ],
+        [
+            "MGE",
+            "MGM College of Engineering & Technology, Ernakulam",
+            "S",
+            "44243"
+        ],
+        [
+            "SBW",
+            "Sree Buddha College of Engineering, Elavumthitta,",
+            "S",
+            "44371"
+        ],
+        [
+            "JBT",
+            "Jai Bharath College of Management & Engg. Tech.,",
+            "S",
+            "44417"
+        ],
+        [
+            "AWH",
+            "AWH Engineering College, Kozhikkode",
+            "S",
+            "45043"
+        ],
+        [
+            "AME",
+            "Rajadhani Institute of Science and Technology, Palakkad",
+            "S",
+            "45232"
+        ],
+        [
+            "DMC",
+            "M Dasan Memmorial Co-op. Inst. of Engg. & Inf. Tech.,",
+            "S",
+            "45393"
+        ],
+        [
+            "JCE",
+            "Jawaharlal College of Engineering & Technology,",
+            "S",
+            "45450"
+        ],
+        [
+            "UKP",
+            "UKF College of Engineering & Tech., Parippally.",
+            "S",
+            "45537"
+        ],
+        [
+            "VIT",
+            "VISAT Engineering College, Piravam, EKM.",
+            "S",
+            "45576"
+        ],
+        [
+            "SNG",
+            "Sree Narayana Gurukulam College of Engineering,",
+            "S",
+            "45813"
+        ],
+        [
+            "AXE",
+            "Axis College of Engineering & Technology, Murikkingal,",
+            "S",
+            "45902"
+        ],
+        [
+            "KMC",
+            "KMCT College of Engineering, Kozhikkode.",
+            "S",
+            "46022"
+        ],
+        [
+            "IES",
+            "I E S College of Engineering, Chittilappilly.",
+            "S",
+            "46285"
+        ],
+        [
+            "AAE",
+            "Al-Azhar College of Engineering & Technology, Thodupuzha.",
+            "S",
+            "46364"
+        ],
+        [
+            "SNP",
+            "Sree Narayana Institute of Technology, Adoor",
+            "S",
+            "46370"
+        ],
+        [
+            "TCT",
+            "Trinity College of Engg, Neruvamoodu,",
+            "S",
+            "46542"
+        ],
+        [
+            "BJK",
+            "Bishop Jerome Institute, Kollam.",
+            "S",
+            "46574"
+        ],
+        [
+            "MLM",
+            "Mangalam College of Engineering, Ettumanoor.",
+            "S",
+            "46652"
+        ],
+        [
+            "YCE",
+            "Younus College of Engg. & Technology, Vadakkevila, Kollam",
+            "S",
+            "46857"
+        ],
+        [
+            "EKC",
+            "Eranad Knowledgecity Technical Campus, Cherukulam,",
+            "S",
+            "46910"
+        ],
+        [
+            "PAA",
+            "P A Aziz College of Engineering, Karakulam,",
+            "S",
+            "46961"
+        ],
+        [
+            "UNT",
+            "Universal Engineering College, Vallivattom, Thrissur.",
+            "S",
+            "46978"
+        ],
+        [
+            "SPT",
+            "Sreepathy Institute of Management & Tech., Koottanad.",
+            "S",
+            "47007"
+        ],
+        [
+            "MHP",
+            "Ace College of Engineering, .Thiruvallam.",
+            "S",
+            "47025"
+        ],
+        [
+            "MEK",
+            "MES Institute of Tech. & Management, Chathannoor.",
+            "S",
+            "47048"
+        ],
+        [
+            "SNM",
+            "Sree Narayana Mangalam Inst. of Mgmt. & Tech.,",
+            "S",
+            "47049"
+        ],
+        [
+            "VKE",
+            "Valia Koonambaikulathamma College of Engg. & tech.,",
+            "S",
+            "47057"
+        ],
+        [
+            "HCE",
+            "Heera College of Engineering & Technology, Nedumangad.",
+            "S",
+            "47111"
+        ],
+        [
+            "VPE",
+            "Mahaguru Institute of Technology, Mavelikkara, Alappuzha",
+            "S",
+            "47181"
+        ],
+        [
+            "STC",
+            "St. Thomas College of Engg. & Technology, Chengannur.",
+            "S",
+            "47224"
+        ],
+        [
+            "ICE",
+            "Ilahia College of Engineering & Tech., Moovattupuzha.",
+            "S",
+            "47260"
+        ],
+        [
+            "GIT",
+            "Gurudeva Institute of Science & Technology, Puthuppally.",
+            "S",
+            "47277"
+        ],
+        [
+            "SNC",
+            "Sree Narayana Guru College of Engg & Technology,",
+            "S",
+            "47317"
+        ],
+        [
+            "JIT",
+            "John Cox Memorial CSI Institute of Technology,",
+            "S",
+            "47394"
+        ],
+        [
+            "MBC",
+            "Mar Baselios Christian College of Engg. & Tech., Peermede.",
+            "S",
+            "47508"
+        ],
+        [
+            "MCT",
+            "Mohandas College of Engg. & Tech., Nedumangad, TVM",
+            "S",
+            "47565"
+        ],
+        [
+            "VAK",
+            "Vidya Academy of Science & Technology, Kilimanoor.",
+            "S",
+            "47620"
+        ],
+        [
+            "WYD",
+            "Govt. Engineering College, Mananthavady.",
+            "G",
+            "-"
+        ],
+        [
+            "AAP",
+            "Al-Ameen College of Engineering, Pattambi.",
+            "S",
+            "-"
+        ],
+        [
+            "MCC",
+            "Musaliar College of Engineering, Chirayinkeezh.",
+            "S",
+            "-"
+        ],
+        [
+            "MEC",
+            "Malabar College of Engineering & Tech., Wadakancherry.",
+            "S",
+            "-"
+        ],
+        [
+            "MUS",
+            "Muslim Association College of Engineering, Venjaramoodu.",
+            "S",
+            "-"
+        ],
+        [
+            "MZC",
+            "Mount Zion College of Engg., Pathanamthitta.",
+            "S",
+            "-"
+        ],
+        [
+            "SHM",
+            "Shahul Hameed Memorial Engineering College, Kadakkal,",
+            "S",
+            "-"
+        ]
+    ],
+    "Electrical & Electronics Engineering": [
+        [
+            "TVE",
+            "College of Engineering,Thiruvananthapuram.",
+            "G",
+            "571"
+        ],
+        [
+            "TCR",
+            "Govt. Engineering College,Thrissur.",
+            "G",
+            "1816"
+        ],
+        [
+            "TKM",
+            "T K M College of Engineering, Kollam.",
+            "G",
+            "2339"
+        ],
+        [
+            "TRV",
+            "Govt. Engineering College, Barton Hills, TVM",
+            "G",
+            "3108"
+        ],
+        [
+            "MDL",
+            "Model Engineering College, Thrikkakkara.",
+            "N",
+            "3845"
+        ],
+        [
+            "KTE",
+            "Govt. Rajiv Gandhi Institute of Tech., Kottayam.",
+            "G",
+            "4331"
+        ],
+        [
+            "KNR",
+            "Govt. College of Engineering, Kannur.",
+            "G",
+            "4337"
+        ],
+        [
+            "MAC",
+            "M A College of Engineering, Kothamangalam.",
+            "G",
+            "4399"
+        ],
+        [
+            "PKD",
+            "Govt. Engineering College, Sreekrishnapuram.",
+            "G",
+            "4444"
+        ],
+        [
+            "NSS",
+            "N S S College of Engineering, Palakkad.",
+            "G",
+            "4552"
+        ],
+        [
+            "RET",
+            "Rajagiri School of Engineering and Technology, Kochi.",
+            "S",
+            "9273"
+        ],
+        [
+            "MUT",
+            "Muthoot Institute of Tech. & Science, Puthencurz,",
+            "S",
+            "15488"
+        ],
+        [
+            "CEA",
+            "College of Engineering, Attingal, Thiruvananthapuram.",
+            "N",
+            "17337"
+        ],
+        [
+            "UCC",
+            "Calicut Unity. Institute of Engineering & Tech., Tenhipalam.",
+            "N",
+            "17846"
+        ],
+        [
+            "FIT",
+            "Federal Institute of Science & Tech., Angamaly.",
+            "S",
+            "18036"
+        ],
+        [
+            "PRN",
+            "College of Engineering Perumon.",
+            "N",
+            "18706"
+        ],
+        [
+            "TLY",
+            "College of Engineering, Thalassery, Kannur.",
+            "N",
+            "22330"
+        ],
+        [
+            "ADR",
+            "College of Engineering, Adoor",
+            "N",
+            "22669"
+        ],
+        [
+            "SCM",
+            "SCMS School of Engg. & Tech., Ernakulam",
+            "S",
+            "22792"
+        ],
+        [
+            "CHN",
+            "College of Engineering, Chengannur, Alappuzha.",
+            "N",
+            "24159"
+        ],
+        [
+            "IGW",
+            "Indira Gandhi Inst. of Engineering & Tech., Kothamangalam",
+            "S",
+            "24542"
+        ],
+        [
+            "PRP",
+            "College of Engineering & Management, Punnapra.",
+            "N",
+            "25550"
+        ],
+        [
+            "VDA",
+            "College of Engineering, Vadakara, Kozhikode.",
+            "N",
+            "27887"
+        ],
+        [
+            "TKI",
+            "T K M Institute of Technology, Ezhukone, Kollam.",
+            "S",
+            "27978"
+        ],
+        [
+            "KSD",
+            "LBS College of Engineering, Kasaragod.",
+            "N",
+            "28093"
+        ],
+        [
+            "AJC",
+            "Amal Jyothi College of Engineering, Koovapally, Kanjirapally",
+            "S",
+            "28266"
+        ],
+        [
+            "TKR",
+            "College of Engineering, Thrikarippur, Kasaragod.",
+            "N",
+            "28467"
+        ],
+        [
+            "AEC",
+            "College of Engineering, Aranmula, Pathanamthitta.",
+            "N",
+            "28690"
+        ],
+        [
+            "CCE",
+            "Christ College of Engineering, Irinjalakuda.",
+            "S",
+            "29491"
+        ],
+        [
+            "SHR",
+            "Sahrdaya College of Engineering and Technology, Kodakara.",
+            "S",
+            "30247"
+        ],
+        [
+            "MBT",
+            "Mar Baselious College of Engg. & Tech.,",
+            "S",
+            "30602"
+        ],
+        [
+            "SJC",
+            "St. Josephs College of Engineering and Technology,Palai.",
+            "S",
+            "31512"
+        ],
+        [
+            "CEC",
+            "College of Engineering, Cherthala, Alappuzha.",
+            "N",
+            "33097"
+        ],
+        [
+            "VJC",
+            "Viswajyothi College of Engg. & Technology,Vazhakulam.",
+            "S",
+            "33879"
+        ],
+        [
+            "CEN",
+            "College of Engineering and Technology, Payyannur, Kannur.",
+            "S",
+            "34722"
+        ],
+        [
+            "VAS",
+            "Vidya Academy of Science & Technology, Thrissur.",
+            "S",
+            "35439"
+        ],
+        [
+            "MNR",
+            "College of Engineering, Munnar.",
+            "N",
+            "35559"
+        ],
+        [
+            "ASI",
+            "Adi Sankara Institute of Engg. & Tech., Kalady, Ernakulam.",
+            "S",
+            "35775"
+        ],
+        [
+            "KNP",
+            "College of Engineering, Karunagappally.",
+            "N",
+            "35835"
+        ],
+        [
+            "MGP",
+            "Saintgits College of Engineering, Kottayam",
+            "S",
+            "36020"
+        ],
+        [
+            "KGR",
+            "College of Engineering, Kidangoor.",
+            "N",
+            "36392"
+        ],
+        [
+            "GIT",
+            "Gurudeva Institute of Science & Technology, Puthuppally.",
+            "S",
+            "37521"
+        ],
+        [
+            "UCE",
+            "University College of Engineering,Thodupuzha.",
+            "N",
+            "38194"
+        ],
+        [
+            "SNT",
+            "Sree Narayana Guru Institute of Science & Tech., N.",
+            "S",
+            "38262"
+        ],
+        [
+            "PTA",
+            "College of Engineering, Kallooppara.",
+            "N",
+            "38497"
+        ],
+        [
+            "CEM",
+            "College of Engineering, Muttathara.",
+            "N",
+            "38503"
+        ],
+        [
+            "TOC",
+            "Toc H Institute of Science & Tech., Mulamthurutthy.",
+            "S",
+            "38737"
+        ],
+        [
+            "MES",
+            "M E S College of Engineering, Kuttippuram.",
+            "S",
+            "38912"
+        ],
+        [
+            "MCE",
+            "Marian Engineering College, Kazhakuttom.",
+            "S",
+            "39127"
+        ],
+        [
+            "VKE",
+            "Valia Koonambaikulathamma College of Engg. & tech.,",
+            "S",
+            "39220"
+        ],
+        [
+            "ATP",
+            "Ahalia School of Engineering & Technology, Pudussery,",
+            "S",
+            "39247"
+        ],
+        [
+            "PEC",
+            "College of Engineering, Pathanapuram.",
+            "N",
+            "39326"
+        ],
+        [
+            "KME",
+            "K M E A Engineering College, Edathala.",
+            "S",
+            "39353"
+        ],
+        [
+            "MEA",
+            "M E A Engineering College, Malappuram.",
+            "S",
+            "39460"
+        ],
+        [
+            "JIT",
+            "John Cox Memorial CSI Institute of Technology,",
+            "S",
+            "39662"
+        ],
+        [
+            "TEC",
+            "Travancore Engineering College, Oyoor, Kollam.",
+            "S",
+            "40211"
+        ],
+        [
+            "BJK",
+            "Bishop Jerome Institute, Kollam.",
+            "S",
+            "40451"
+        ],
+        [
+            "AWH",
+            "AWH Engineering College, Kozhikkode",
+            "S",
+            "40897"
+        ],
+        [
+            "RIE",
+            "Rajadhani Institute of Engineering & Tech., Attingal.",
+            "S",
+            "40949"
+        ],
+        [
+            "VML",
+            "Vimal Jyothi Engineering College, Chemperi.",
+            "S",
+            "42091"
+        ],
+        [
+            "VVT",
+            "Veda Vyasa Institute of Technology, Ponnempadam,",
+            "S",
+            "42568"
+        ],
+        [
+            "AIK",
+            "Albertian Institute of Science and Technology, Kalamassery.",
+            "S",
+            "42830"
+        ],
+        [
+            "SNM",
+            "Sree Narayana Mangalam Inst. of Mgmt. & Tech.,",
+            "S",
+            "43066"
+        ],
+        [
+            "SNP",
+            "Sree Narayana Institute of Technology, Adoor",
+            "S",
+            "43196"
+        ],
+        [
+            "MCK",
+            "Musaliar College of Engineering & Tech., Pathanamthitta.",
+            "S",
+            "43229"
+        ],
+        [
+            "BMC",
+            "Baselios Mathew II College of Engg., Sasthamcotta, Kollam.",
+            "S",
+            "43481"
+        ],
+        [
+            "LMC",
+            "Lourdes Matha College of Science and Technology,",
+            "S",
+            "43626"
+        ],
+        [
+            "CCV",
+            "MGM College of Engineering and Pharmaceutical Sciences,",
+            "S",
+            "43735"
+        ],
+        [
+            "AME",
+            "Rajadhani Institute of Science and Technology, Palakkad",
+            "S",
+            "44519"
+        ],
+        [
+            "HGW",
+            "Holy Grace Academy of Engineering, Mala, Thrissur.",
+            "S",
+            "44714"
+        ],
+        [
+            "KMC",
+            "KMCT College of Engineering, Kozhikkode.",
+            "S",
+            "44770"
+        ],
+        [
+            "SIT",
+            "Sarabhai Institute of Science & Technology, Vellanad.",
+            "S",
+            "45109"
+        ],
+        [
+            "VAK",
+            "Vidya Academy of Science & Technology, Kilimanoor.",
+            "S",
+            "45253"
+        ],
+        [
+            "IES",
+            "I E S College of Engineering, Chittilappilly.",
+            "S",
+            "45266"
+        ],
+        [
+            "AXE",
+            "Axis College of Engineering & Technology, Murikkingal,",
+            "S",
+            "45575"
+        ],
+        [
+            "MBI",
+            "Mar Baselios Institute of Technology & Science,",
+            "S",
+            "45599"
+        ],
+        [
+            "MUS",
+            "Muslim Association College of Engineering, Venjaramoodu.",
+            "S",
+            "45616"
+        ],
+        [
+            "KIT",
+            "Kottayam Institute of Tech. & Science, Pallicathode,",
+            "S",
+            "45760"
+        ],
+        [
+            "SPT",
+            "Sreepathy Institute of Management & Tech., Koottanad.",
+            "S",
+            "45856"
+        ],
+        [
+            "SBW",
+            "Sree Buddha College of Engineering, Elavumthitta,",
+            "S",
+            "45879"
+        ],
+        [
+            "TCT",
+            "Trinity College of Engg, Neruvamoodu,",
+            "S",
+            "45969"
+        ],
+        [
+            "SNC",
+            "Sree Narayana Guru College of Engg & Technology,",
+            "S",
+            "46019"
+        ],
+        [
+            "ICE",
+            "Ilahia College of Engineering & Tech., Moovattupuzha.",
+            "S",
+            "46084"
+        ],
+        [
+            "HCE",
+            "Heera College of Engineering & Technology, Nedumangad.",
+            "S",
+            "46170"
+        ],
+        [
+            "VIT",
+            "VISAT Engineering College, Piravam, EKM.",
+            "S",
+            "46310"
+        ],
+        [
+            "UNT",
+            "Universal Engineering College, Vallivattom, Thrissur.",
+            "S",
+            "46471"
+        ],
+        [
+            "YCE",
+            "Younus College of Engg. & Technology, Vadakkevila, Kollam",
+            "S",
+            "46516"
+        ],
+        [
+            "MCT",
+            "Mohandas College of Engg. & Tech., Nedumangad, TVM",
+            "S",
+            "46518"
+        ],
+        [
+            "PRC",
+            "Providence College of Engineering, Chengannur.",
+            "S",
+            "46547"
+        ],
+        [
+            "UKP",
+            "UKF College of Engineering & Tech., Parippally.",
+            "S",
+            "46609"
+        ],
+        [
+            "SNG",
+            "Sree Narayana Gurukulam College of Engineering,",
+            "S",
+            "46644"
+        ],
+        [
+            "CMA",
+            "Carmel College of Engg. & Technology, Punnapra,",
+            "S",
+            "46669"
+        ],
+        [
+            "VPE",
+            "Mahaguru Institute of Technology, Mavelikkara, Alappuzha",
+            "S",
+            "46790"
+        ],
+        [
+            "MHP",
+            "Ace College of Engineering, .Thiruvallam.",
+            "S",
+            "46931"
+        ],
+        [
+            "MEK",
+            "MES Institute of Tech. & Management, Chathannoor.",
+            "S",
+            "47101"
+        ],
+        [
+            "MGE",
+            "MGM College of Engineering & Technology, Ernakulam",
+            "S",
+            "47106"
+        ],
+        [
+            "MBC",
+            "Mar Baselios Christian College of Engg. & Tech., Peermede.",
+            "S",
+            "47185"
+        ],
+        [
+            "AAP",
+            "Al-Ameen College of Engineering, Pattambi.",
+            "S",
+            "47265"
+        ],
+        [
+            "DMC",
+            "M Dasan Memmorial Co-op. Inst. of Engg. & Inf. Tech.,",
+            "S",
+            "47323"
+        ],
+        [
+            "JEC",
+            "Jyothi Engineering College, Cheruthuruthy.",
+            "S",
+            "47391"
+        ],
+        [
+            "STI",
+            "St. Thomas Institute of Science & Technology, Kattaikonam.",
+            "S",
+            "47502"
+        ],
+        [
+            "NCE",
+            "Nehru College of Engg. & Research Centre, Thiruvillwamala.",
+            "S",
+            "47528"
+        ],
+        [
+            "SBC",
+            "Sree Buddha College of Engineering, Nooranadu.",
+            "S",
+            "47574"
+        ],
+        [
+            "IDK",
+            "Engineering College, Idukki",
+            "G",
+            "-"
+        ],
+        [
+            "WYD",
+            "Govt. Engineering College, Mananthavady.",
+            "G",
+            "-"
+        ],
+        [
+            "JBT",
+            "Jai Bharath College of Management & Engg. Tech.,",
+            "S",
+            "-"
+        ],
+        [
+            "MGC",
+            "M G College of Engineering, Thiruvallom.",
+            "S",
+            "-"
+        ],
+        [
+            "MLM",
+            "Mangalam College of Engineering, Ettumanoor.",
+            "S",
+            "-"
+        ],
+        [
+            "MLT",
+            "Malabar Institute of Technology, Anjarakandi.",
+            "S",
+            "-"
+        ],
+        [
+            "PAA",
+            "P A Aziz College of Engineering, Karakulam,",
+            "S",
+            "-"
+        ],
+        [
+            "SHM",
+            "Shahul Hameed Memorial Engineering College, Kadakkal,",
+            "S",
+            "-"
+        ],
+        [
+            "STC",
+            "St. Thomas College of Engg. & Technology, Chengannur.",
+            "S",
+            "-"
+        ],
+        [
+            "TJE",
+            "Thejus Engineering College, Erumapetti, Thrissur.",
+            "S",
+            "-"
+        ]
+    ],
+    "Electronics & Instrumentation": [
+        [
+            "FIT",
+            "Federal Institute of Science & Tech., Angamaly.",
+            "S",
+            "24567"
+        ],
+        [
+            "CHN",
+            "College of Engineering, Chengannur, Alappuzha.",
+            "N",
+            "35457"
+        ],
+        [
+            "SIT",
+            "Sarabhai Institute of Science & Technology, Vellanad.",
+            "S",
+            "47343"
+        ]
+    ],
+    "Electrical and Computer Engineering": [
+        [
+            "KGR",
+            "College of Engineering, Kidangoor.",
+            "N",
+            "23204"
+        ],
+        [
+            "TOC",
+            "Toc H Institute of Science & Tech., Mulamthurutthy.",
+            "S",
+            "30875"
+        ]
+    ],
+    "Electronics and Computer Engineering": [
+        [
+            "SJC",
+            "St. Josephs College of Engineering and Technology,Palai.",
+            "S",
+            "20699"
+        ]
+    ],
+    "Safety & Fire Engineering": [
+        [
+            "EKC",
+            "Eranad Knowledgecity Technical Campus, Cherukulam,",
+            "S",
+            "32250"
+        ],
+        [
+            "TOC",
+            "Toc H Institute of Science & Tech., Mulamthurutthy.",
+            "S",
+            "38928"
+        ]
+    ],
+    "Food Technology": [
+        [
+            "CFT",
+            "College of Food Technolgy, Thumburmuzhy",
+            "G",
+            "4363"
+        ],
+        [
+            "COU",
+            "School of Ocean Engg. & Underwater Tech., KUFOS,",
+            "G",
+            "6015"
+        ],
+        [
+            "KCT",
+            "Kelappaji College of-Agrl. Engg. & Technology, Tavanur.",
+            "G",
+            "6105"
+        ],
+        [
+            "AJC",
+            "Amal Jyothi College of Engineering, Koovapally, Kanjirapally",
+            "S",
+            "16204"
+        ],
+        [
+            "TKI",
+            "T K M Institute of Technology, Ezhukone, Kollam.",
+            "S",
+            "16301"
+        ],
+        [
+            "MGP",
+            "Saintgits College of Engineering, Kottayam",
+            "S",
+            "23010"
+        ],
+        [
+            "SBC",
+            "Sree Buddha College of Engineering, Nooranadu.",
+            "S",
+            "23725"
+        ],
+        [
+            "MCC",
+            "Musaliar College of Engineering, Chirayinkeezh.",
+            "S",
+            "26313"
+        ]
+    ],
+    "Instrumentation & Control Engg.": [
+        [
+            "NSS",
+            "N S S College of Engineering, Palakkad.",
+            "G",
+            "7762"
+        ],
+        [
+            "SNM",
+            "Sree Narayana Mangalam Inst. of Mgmt. & Tech.,",
+            "S",
+            "45432"
+        ]
+    ],
+    "Industrial Engineering": [
+        [
+            "TVE",
+            "College of Engineering,Thiruvananthapuram.",
+            "G",
+            "3868"
+        ]
+    ],
+    "Information Technology": [
+        [
+            "TRV",
+            "Govt. Engineering College, Barton Hills, TVM",
+            "G",
+            "3713"
+        ],
+        [
+            "PKD",
+            "Govt. Engineering College, Sreekrishnapuram.",
+            "G",
+            "5920"
+        ],
+        [
+            "IDK",
+            "Engineering College, Idukki",
+            "G",
+            "6263"
+        ],
+        [
+            "RET",
+            "Rajagiri School of Engineering and Technology, Kochi.",
+            "S",
+            "8371"
+        ],
+        [
+            "LBT",
+            "LBS Institute of Tech. for Women, Poojapura, TVPM",
+            "N",
+            "13220"
+        ],
+        [
+            "UCK",
+            "University College of Engineering, Kariavattom.",
+            "N",
+            "15671"
+        ],
+        [
+            "KSD",
+            "LBS College of Engineering, Kasaragod.",
+            "N",
+            "19334"
+        ],
+        [
+            "UCC",
+            "Calicut Unity. Institute of Engineering & Tech., Tenhipalam.",
+            "N",
+            "20320"
+        ],
+        [
+            "TOC",
+            "Toc H Institute of Science & Tech., Mulamthurutthy.",
+            "S",
+            "20390"
+        ],
+        [
+            "AJC",
+            "Amal Jyothi College of Engineering, Koovapally, Kanjirapally",
+            "S",
+            "21711"
+        ],
+        [
+            "TLY",
+            "College of Engineering, Thalassery, Kannur.",
+            "N",
+            "23026"
+        ],
+        [
+            "VDA",
+            "College of Engineering, Vadakara, Kozhikode.",
+            "N",
+            "24638"
+        ],
+        [
+            "VJC",
+            "Viswajyothi College of Engg. & Technology,Vazhakulam.",
+            "S",
+            "26057"
+        ],
+        [
+            "MES",
+            "M E S College of Engineering, Kuttippuram.",
+            "S",
+            "26208"
+        ],
+        [
+            "KMC",
+            "KMCT College of Engineering, Kozhikkode.",
+            "S",
+            "27223"
+        ],
+        [
+            "MEA",
+            "M E A Engineering College, Malappuram.",
+            "S",
+            "30510"
+        ]
+    ],
+    "Mechanical Engg. (Automobile)": [
+        [
+            "SCT",
+            "S C T College of Engineering, Pappanamcode, TVPM",
+            "N",
+            "12283"
+        ],
+        [
+            "AJC",
+            "Amal Jyothi College of Engineering, Koovapally, Kanjirapally",
+            "S",
+            "45782"
+        ],
+        [
+            "SNP",
+            "Sree Narayana Institute of Technology, Adoor",
+            "S",
+            "46067"
+        ]
+    ],
+    "Mechanical Engineering": [
+        [
+            "TVE",
+            "College of Engineering,Thiruvananthapuram.",
+            "G",
+            "819"
+        ],
+        [
+            "TCR",
+            "Govt. Engineering College,Thrissur.",
+            "G",
+            "2395"
+        ],
+        [
+            "TKM",
+            "T K M College of Engineering, Kollam.",
+            "G",
+            "3510"
+        ],
+        [
+            "TRV",
+            "Govt. Engineering College, Barton Hills, TVM",
+            "G",
+            "4275"
+        ],
+        [
+            "KTE",
+            "Govt. Rajiv Gandhi Institute of Tech., Kottayam.",
+            "G",
+            "5622"
+        ],
+        [
+            "PKD",
+            "Govt. Engineering College, Sreekrishnapuram.",
+            "G",
+            "5792"
+        ],
+        [
+            "KKE",
+            "Govt. Engineering College, Kozhikkode.",
+            "G",
+            "5937"
+        ],
+        [
+            "KNR",
+            "Govt. College of Engineering, Kannur.",
+            "G",
+            "5945"
+        ],
+        [
+            "MAC",
+            "M A College of Engineering, Kothamangalam.",
+            "G",
+            "5948"
+        ],
+        [
+            "IDK",
+            "Engineering College, Idukki",
+            "G",
+            "6021"
+        ],
+        [
+            "NSS",
+            "N S S College of Engineering, Palakkad.",
+            "G",
+            "6029"
+        ],
+        [
+            "MDL",
+            "Model Engineering College, Thrikkakkara.",
+            "N",
+            "6741"
+        ],
+        [
+            "SCT",
+            "S C T College of Engineering, Pappanamcode, TVPM",
+            "N",
+            "8476"
+        ],
+        [
+            "RET",
+            "Rajagiri School of Engineering and Technology, Kochi.",
+            "S",
+            "14937"
+        ],
+        [
+            "MUT",
+            "Muthoot Institute of Tech. & Science, Puthencurz,",
+            "S",
+            "16951"
+        ],
+        [
+            "PRN",
+            "College of Engineering Perumon.",
+            "N",
+            "18582"
+        ],
+        [
+            "UCC",
+            "Calicut Unity. Institute of Engineering & Tech., Tenhipalam.",
+            "N",
+            "21385"
+        ],
+        [
+            "KSD",
+            "LBS College of Engineering, Kasaragod.",
+            "N",
+            "23447"
+        ],
+        [
+            "CCE",
+            "Christ College of Engineering, Irinjalakuda.",
+            "S",
+            "24334"
+        ],
+        [
+            "TLY",
+            "College of Engineering, Thalassery, Kannur.",
+            "N",
+            "24686"
+        ],
+        [
+            "FIT",
+            "Federal Institute of Science & Tech., Angamaly.",
+            "S",
+            "27183"
+        ],
+        [
+            "PRP",
+            "College of Engineering & Management, Punnapra.",
+            "N",
+            "28727"
+        ],
+        [
+            "ADR",
+            "College of Engineering, Adoor",
+            "N",
+            "28767"
+        ],
+        [
+            "MNR",
+            "College of Engineering, Munnar.",
+            "N",
+            "30973"
+        ],
+        [
+            "TKI",
+            "T K M Institute of Technology, Ezhukone, Kollam.",
+            "S",
+            "31932"
+        ],
+        [
+            "EKC",
+            "Eranad Knowledgecity Technical Campus, Cherukulam,",
+            "S",
+            "32268"
+        ],
+        [
+            "KNP",
+            "College of Engineering, Karunagappally.",
+            "N",
+            "32780"
+        ],
+        [
+            "CEM",
+            "College of Engineering, Muttathara.",
+            "N",
+            "34495"
+        ],
+        [
+            "PEC",
+            "College of Engineering, Pathanapuram.",
+            "N",
+            "36305"
+        ],
+        [
+            "ICE",
+            "Ilahia College of Engineering & Tech., Moovattupuzha.",
+            "S",
+            "36541"
+        ],
+        [
+            "AXE",
+            "Axis College of Engineering & Technology, Murikkingal,",
+            "S",
+            "37894"
+        ],
+        [
+            "AJC",
+            "Amal Jyothi College of Engineering, Koovapally, Kanjirapally",
+            "S",
+            "38132"
+        ],
+        [
+            "VAS",
+            "Vidya Academy of Science & Technology, Thrissur.",
+            "S",
+            "38771"
+        ],
+        [
+            "MBT",
+            "Mar Baselious College of Engg. & Tech.,",
+            "S",
+            "38794"
+        ],
+        [
+            "VJC",
+            "Viswajyothi College of Engg. & Technology,Vazhakulam.",
+            "S",
+            "38950"
+        ],
+        [
+            "JBT",
+            "Jai Bharath College of Management & Engg. Tech.,",
+            "S",
+            "39288"
+        ],
+        [
+            "ASI",
+            "Adi Sankara Institute of Engg. & Tech., Kalady, Ernakulam.",
+            "S",
+            "40025"
+        ],
+        [
+            "JEC",
+            "Jyothi Engineering College, Cheruthuruthy.",
+            "S",
+            "40073"
+        ],
+        [
+            "VVT",
+            "Veda Vyasa Institute of Technology, Ponnempadam,",
+            "S",
+            "40298"
+        ],
+        [
+            "VML",
+            "Vimal Jyothi Engineering College, Chemperi.",
+            "S",
+            "40735"
+        ],
+        [
+            "SNP",
+            "Sree Narayana Institute of Technology, Adoor",
+            "S",
+            "41360"
+        ],
+        [
+            "CCV",
+            "MGM College of Engineering and Pharmaceutical Sciences,",
+            "S",
+            "41698"
+        ],
+        [
+            "MCE",
+            "Marian Engineering College, Kazhakuttom.",
+            "S",
+            "42138"
+        ],
+        [
+            "MES",
+            "M E S College of Engineering, Kuttippuram.",
+            "S",
+            "42174"
+        ],
+        [
+            "HCE",
+            "Heera College of Engineering & Technology, Nedumangad.",
+            "S",
+            "42209"
+        ],
+        [
+            "MGP",
+            "Saintgits College of Engineering, Kottayam",
+            "S",
+            "42254"
+        ],
+        [
+            "AAP",
+            "Al-Ameen College of Engineering, Pattambi.",
+            "S",
+            "42294"
+        ],
+        [
+            "CEN",
+            "College of Engineering and Technology, Payyannur, Kannur.",
+            "S",
+            "42630"
+        ],
+        [
+            "MEE",
+            "MES College of Engineering & Technology, .Ernakulam.",
+            "S",
+            "42983"
+        ],
+        [
+            "ECE",
+            "ICCS College of Engineering and Management, Thrissur",
+            "S",
+            "43088"
+        ],
+        [
+            "SCM",
+            "SCMS School of Engg. & Tech., Ernakulam",
+            "S",
+            "43184"
+        ],
+        [
+            "PAA",
+            "P A Aziz College of Engineering, Karakulam,",
+            "S",
+            "43233"
+        ],
+        [
+            "SPT",
+            "Sreepathy Institute of Management & Tech., Koottanad.",
+            "S",
+            "43760"
+        ],
+        [
+            "SNT",
+            "Sree Narayana Guru Institute of Science & Tech., N.",
+            "S",
+            "43777"
+        ],
+        [
+            "AIK",
+            "Albertian Institute of Science and Technology, Kalamassery.",
+            "S",
+            "43797"
+        ],
+        [
+            "SNG",
+            "Sree Narayana Gurukulam College of Engineering,",
+            "S",
+            "43963"
+        ],
+        [
+            "SJC",
+            "St. Josephs College of Engineering and Technology,Palai.",
+            "S",
+            "44032"
+        ],
+        [
+            "MBI",
+            "Mar Baselios Institute of Technology & Science,",
+            "S",
+            "44422"
+        ],
+        [
+            "YCE",
+            "Younus College of Engg. & Technology, Vadakkevila, Kollam",
+            "S",
+            "44535"
+        ],
+        [
+            "SNM",
+            "Sree Narayana Mangalam Inst. of Mgmt. & Tech.,",
+            "S",
+            "44555"
+        ],
+        [
+            "BMC",
+            "Baselios Mathew II College of Engg., Sasthamcotta, Kollam.",
+            "S",
+            "44572"
+        ],
+        [
+            "VIT",
+            "VISAT Engineering College, Piravam, EKM.",
+            "S",
+            "44763"
+        ],
+        [
+            "MCK",
+            "Musaliar College of Engineering & Tech., Pathanamthitta.",
+            "S",
+            "44774"
+        ],
+        [
+            "RCE",
+            "Royal College of Engineering & Technology, Thrissur.",
+            "S",
+            "44970"
+        ],
+        [
+            "TCT",
+            "Trinity College of Engg, Neruvamoodu,",
+            "S",
+            "44973"
+        ],
+        [
+            "STI",
+            "St. Thomas Institute of Science & Technology, Kattaikonam.",
+            "S",
+            "45034"
+        ],
+        [
+            "CKC",
+            "Christ Knowledge City, Kuzhoor,EKM",
+            "S",
+            "45213"
+        ],
+        [
+            "AME",
+            "Rajadhani Institute of Science and Technology, Palakkad",
+            "S",
+            "45289"
+        ],
+        [
+            "MCC",
+            "Musaliar College of Engineering, Chirayinkeezh.",
+            "S",
+            "45367"
+        ],
+        [
+            "TJE",
+            "Thejus Engineering College, Erumapetti, Thrissur.",
+            "S",
+            "45453"
+        ],
+        [
+            "MET",
+            "Met's School of Engineering, Mala.",
+            "S",
+            "45467"
+        ],
+        [
+            "SIT",
+            "Sarabhai Institute of Science & Technology, Vellanad.",
+            "S",
+            "45470"
+        ],
+        [
+            "AAE",
+            "Al-Azhar College of Engineering & Technology, Thodupuzha.",
+            "S",
+            "45594"
+        ],
+        [
+            "RIE",
+            "Rajadhani Institute of Engineering & Tech., Attingal.",
+            "S",
+            "45677"
+        ],
+        [
+            "VKE",
+            "Valia Koonambaikulathamma College of Engg. & tech.,",
+            "S",
+            "45682"
+        ],
+        [
+            "VPE",
+            "Mahaguru Institute of Technology, Mavelikkara, Alappuzha",
+            "S",
+            "45741"
+        ],
+        [
+            "MZC",
+            "Mount Zion College of Engg., Pathanamthitta.",
+            "S",
+            "45803"
+        ],
+        [
+            "MBC",
+            "Mar Baselios Christian College of Engg. & Tech., Peermede.",
+            "S",
+            "45846"
+        ],
+        [
+            "KME",
+            "K M E A Engineering College, Edathala.",
+            "S",
+            "45878"
+        ],
+        [
+            "ATP",
+            "Ahalia School of Engineering & Technology, Pudussery,",
+            "S",
+            "45924"
+        ],
+        [
+            "MLM",
+            "Mangalam College of Engineering, Ettumanoor.",
+            "S",
+            "45983"
+        ],
+        [
+            "MUS",
+            "Muslim Association College of Engineering, Venjaramoodu.",
+            "S",
+            "46235"
+        ],
+        [
+            "KIT",
+            "Kottayam Institute of Tech. & Science, Pallicathode,",
+            "S",
+            "46277"
+        ],
+        [
+            "TEC",
+            "Travancore Engineering College, Oyoor, Kollam.",
+            "S",
+            "46330"
+        ],
+        [
+            "STM",
+            "St. Thomas College of Engineering & Technology, Kannur.",
+            "S",
+            "46552"
+        ],
+        [
+            "MCT",
+            "Mohandas College of Engg. & Tech., Nedumangad, TVM",
+            "S",
+            "46588"
+        ],
+        [
+            "MEK",
+            "MES Institute of Tech. & Management, Chathannoor.",
+            "S",
+            "46600"
+        ],
+        [
+            "ILE",
+            "ILM College of Engineering, Perumbavoor, Ernakulam.",
+            "S",
+            "46617"
+        ],
+        [
+            "UNT",
+            "Universal Engineering College, Vallivattom, Thrissur.",
+            "S",
+            "46685"
+        ],
+        [
+            "STC",
+            "St. Thomas College of Engg. & Technology, Chengannur.",
+            "S",
+            "46697"
+        ],
+        [
+            "BJK",
+            "Bishop Jerome Institute, Kollam.",
+            "S",
+            "46764"
+        ],
+        [
+            "NCE",
+            "Nehru College of Engg. & Research Centre, Thiruvillwamala.",
+            "S",
+            "46781"
+        ],
+        [
+            "UKP",
+            "UKF College of Engineering & Tech., Parippally.",
+            "S",
+            "46794"
+        ],
+        [
+            "SBC",
+            "Sree Buddha College of Engineering, Nooranadu.",
+            "S",
+            "46802"
+        ],
+        [
+            "CMA",
+            "Carmel College of Engg. & Technology, Punnapra,",
+            "S",
+            "46816"
+        ],
+        [
+            "DMC",
+            "M Dasan Memmorial Co-op. Inst. of Engg. & Inf. Tech.,",
+            "S",
+            "47000"
+        ],
+        [
+            "MHP",
+            "Ace College of Engineering, .Thiruvallam.",
+            "S",
+            "47130"
+        ],
+        [
+            "MEA",
+            "M E A Engineering College, Malappuram.",
+            "S",
+            "47134"
+        ],
+        [
+            "TOC",
+            "Toc H Institute of Science & Tech., Mulamthurutthy.",
+            "S",
+            "47187"
+        ],
+        [
+            "JCE",
+            "Jawaharlal College of Engineering & Technology,",
+            "S",
+            "47198"
+        ],
+        [
+            "MEC",
+            "Malabar College of Engineering & Tech., Wadakancherry.",
+            "S",
+            "47202"
+        ],
+        [
+            "SNC",
+            "Sree Narayana Guru College of Engg & Technology,",
+            "S",
+            "47239"
+        ],
+        [
+            "MGE",
+            "MGM College of Engineering & Technology, Ernakulam",
+            "S",
+            "47404"
+        ],
+        [
+            "AWH",
+            "AWH Engineering College, Kozhikkode",
+            "S",
+            "47420"
+        ],
+        [
+            "VAK",
+            "Vidya Academy of Science & Technology, Kilimanoor.",
+            "S",
+            "47433"
+        ],
+        [
+            "PRC",
+            "Providence College of Engineering, Chengannur.",
+            "S",
+            "47446"
+        ],
+        [
+            "JIT",
+            "John Cox Memorial CSI Institute of Technology,",
+            "S",
+            "47448"
+        ],
+        [
+            "LMC",
+            "Lourdes Matha College of Science and Technology,",
+            "S",
+            "47471"
+        ],
+        [
+            "GIT",
+            "Gurudeva Institute of Science & Technology, Puthuppally.",
+            "S",
+            "47527"
+        ],
+        [
+            "KMC",
+            "KMCT College of Engineering, Kozhikkode.",
+            "S",
+            "47554"
+        ],
+        [
+            "MZW",
+            "Mount Zion Institute of Science & Tehnology, Chengannur",
+            "S",
+            "47567"
+        ],
+        [
+            "SBW",
+            "Sree Buddha College of Engineering, Elavumthitta,",
+            "S",
+            "47603"
+        ],
+        [
+            "WYD",
+            "Govt. Engineering College, Mananthavady.",
+            "G",
+            "-"
+        ],
+        [
+            "HGW",
+            "Holy Grace Academy of Engineering, Mala, Thrissur.",
+            "S",
+            "-"
+        ],
+        [
+            "IES",
+            "I E S College of Engineering, Chittilappilly.",
+            "S",
+            "-"
+        ],
+        [
+            "MLT",
+            "Malabar Institute of Technology, Anjarakandi.",
+            "S",
+            "-"
+        ],
+        [
+            "NIE",
+            "Nirmala College of Engineering, Chalakudy.",
+            "S",
+            "-"
+        ],
+        [
+            "PRS",
+            "PRS College of Engineering & Tech., Neyyattinkara.",
+            "S",
+            "-"
+        ],
+        [
+            "SGT",
+            "Sadguru Swamy Nithyananda Insti. of Tech., Karsaragod",
+            "S",
+            "-"
+        ],
+        [
+            "SHM",
+            "Shahul Hameed Memorial Engineering College, Kadakkal,",
+            "S",
+            "-"
+        ],
+        [
+            "TCE",
+            "Toms College of Engineering, Mattakara, Kottayam",
+            "S",
+            "-"
+        ]
+    ],
+    "Metallurgical and Materials Engineering": [
+        [
+            "AJC",
+            "Amal Jyothi College of Engineering, Koovapally, Kanjirapally",
+            "S",
+            "27125"
+        ]
+    ],
+    "Mechanical (Production Engg.)": [
+        [
+            "VPE",
+            "Mahaguru Institute of Technology, Mavelikkara, Alappuzha",
+            "S",
+            "39646"
+        ]
+    ],
+    "Mechatronics Engineering": [
+        [
+            "NIE",
+            "Nirmala College of Engineering, Chalakudy.",
+            "S",
+            "36930"
+        ],
+        [
+            "JEC",
+            "Jyothi Engineering College, Cheruthuruthy.",
+            "S",
+            "38234"
+        ],
+        [
+            "CCV",
+            "MGM College of Engineering and Pharmaceutical Sciences,",
+            "S",
+            "38312"
+        ],
+        [
+            "MEC",
+            "Malabar College of Engineering & Tech., Wadakancherry.",
+            "S",
+            "39308"
+        ],
+        [
+            "NCE",
+            "Nehru College of Engg. & Research Centre, Thiruvillwamala.",
+            "S",
+            "46482"
+        ]
+    ],
+    "Production Engineering": [
+        [
+            "TCR",
+            "Govt. Engineering College,Thrissur.",
+            "G",
+            "6505"
+        ]
+    ],
+    "Polymer Engineering": [
+        [
+            "UCE",
+            "University College of Engineering,Thodupuzha.",
+            "N",
+            "18485"
+        ]
+    ],
+    "Printing Technology": [
+        [
+            "UCC",
+            "Calicut Unity. Institute of Engineering & Tech., Tenhipalam.",
+            "N",
+            "24212"
+        ]
+    ],
+    "Robotics & Automation": [
+        [
+            "MEA",
+            "M E A Engineering College, Malappuram.",
+            "S",
+            "18351"
+        ],
+        [
+            "ASI",
+            "Adi Sankara Institute of Engg. & Tech., Kalady, Ernakulam.",
+            "S",
+            "23319"
+        ],
+        [
+            "RIE",
+            "Rajadhani Institute of Engineering & Tech., Attingal.",
+            "S",
+            "30077"
+        ],
+        [
+            "JEC",
+            "Jyothi Engineering College, Cheruthuruthy.",
+            "S",
+            "31723"
+        ],
+        [
+            "MGP",
+            "Saintgits College of Engineering, Kottayam",
+            "S",
+            "31764"
+        ],
+        [
+            "TOC",
+            "Toc H Institute of Science & Tech., Mulamthurutthy.",
+            "S",
+            "33355"
+        ],
+        [
+            "SBC",
+            "Sree Buddha College of Engineering, Nooranadu, Padanilam,",
+            "S",
+            "35190"
+        ]
+    ],
+    "Naval Arch. & Ship Building": [
+        [
+            "CKC",
+            "Christ Knowledge City, Kuzhoor,EKM",
+            "S",
+            "25181"
+        ],
+        [
+            "SNG",
+            "Sree Narayana Gurukulam College of Engineering,",
+            "S",
+            "26326"
+        ]
+    ],
+    "Architecture": [
+        [
+            "TVE",
+            "College of Engineering,Thiruvananthapuram.",
+            "G",
+            "25"
+        ],
+        [
+            "TCR",
+            "Govt. Engineering College,Thrissur.",
+            "G",
+            "97"
+        ],
+        [
+            "TKM",
+            "T K M College of Engineering, Kollam.",
+            "G",
+            "112"
+        ],
+        [
+            "KTE",
+            "Govt. Rajiv Gandhi Institute of Tech., Kottayam.",
+            "G",
+            "126"
+        ],
+        [
+            "NVR",
+            "College of Architecture Trivandrum, Thiruvananthapuram.",
+            "S",
+            "273"
+        ],
+        [
+            "MRR",
+            "MES School of Architecture, Kuttippuram, Malappuram",
+            "S",
+            "277"
+        ],
+        [
+            "AVR",
+            "Avani Institute of Design, Kozhikkode.",
+            "S",
+            "313"
+        ],
+        [
+            "TER",
+            "TKM School of Architecture, Ezhukone, Kollam.",
+            "S",
+            "455"
+        ],
+        [
+            "IER",
+            "IES College of Architecture. Chittilappilly.",
+            "S",
+            "547"
+        ],
+        [
+            "BJR",
+            "Bishop Jerome Institute School of Architecture, Kollam",
+            "S",
+            "553"
+        ],
+        [
+            "APR",
+            "A P J Abdul Kalam School of Architecture, Muvattupuzha,",
+            "S",
+            "562"
+        ],
+        [
+            "SCR",
+            "SCMS School of Architecture, Ernakulam",
+            "S",
+            "575"
+        ],
+        [
+            "MER",
+            "MES College of Architecture, Kakkodi.",
+            "S",
+            "641"
+        ],
+        [
+            "MCR",
+            "Marian College of Architecture & Planning, Kazhakuttom.",
+            "S",
+            "710"
+        ],
+        [
+            "KMR",
+            "K M E A College of Architecture, Aluva.",
+            "S",
+            "784"
+        ],
+        [
+            "DSR",
+            "D C School of Architecture & Design, Trivandrum",
+            "S",
+            "831"
+        ],
+        [
+            "ALR",
+            "Alsalama Institute of Architecture, Perinthalmanna",
+            "S",
+            "870"
+        ],
+        [
+            "ASR",
+            "Asian School of Architecture and Design Innovations, Vyttila.",
+            "S",
+            "911"
+        ],
+        [
+            "DGR",
+            "Devaki Amma's Guruvayurappan College of Architecture,",
+            "S",
+            "965"
+        ],
+        [
+            "VVR",
+            "Veda Vyasa College of Architecture, Ponnempadam,",
+            "S",
+            "985"
+        ],
+        [
+            "DCR",
+            "DC School of Architecture and Design, Pullikkanam.",
+            "S",
+            "995"
+        ],
+        [
+            "CEN",
+            "College of Engineering and Technology, Payyannur, Kannur.",
+            "S",
+            "1001"
+        ],
+        [
+            "KTR",
+            "KMCT College of Architecture, Kozhikkode.",
+            "S",
+            "1073"
+        ],
+        [
+            "EKR",
+            "Eranad Knowledge City College of Architecture, Manjeri,",
+            "S",
+            "1140"
+        ],
+        [
+            "HCA",
+            "Holy Crescent College of Architecture, Vazhakulam.",
+            "S",
+            "1212"
+        ],
+        [
+            "MLR",
+            "Mangalam School of Architecture, Kottayam.",
+            "S",
+            "1248"
+        ],
+        [
+            "NCR",
+            "Nehru College of Architecture, Lakkidi, Palakkad.",
+            "S",
+            "1286"
+        ],
+        [
+            "TJR",
+            "Thejus College of Architecture, Erumapetti.",
+            "S",
+            "1334"
+        ],
+        [
+            "GIR",
+            "Global Institute of Architecture, Pathiripala, Palakkad.",
+            "S",
+            "1346"
+        ],
+        [
+            "NMR",
+            "Nizar Rahim and Mark School of Architecture, Kollam.",
+            "S",
+            "1366"
+        ],
+        [
+            "MTR",
+            "KMCT College of Architecture, Manassery, Kozhikkode.",
+            "S",
+            "1404"
+        ],
+        [
+            "MKR",
+            "School of Architecture, Eatappilly.",
+            "S",
+            "1476"
+        ],
+        [
+            "SNR",
+            "Sneha College of Architecture, Govindapuram,.",
+            "S",
+            "1580"
+        ]
+    ]
+}

@@ -1,0 +1,64 @@
+Computer Science & Engineering
+
+	1)  ■■  TVE  ■■  College of Engineering,Thiruvananthapuram.  ■■  G  ■■  105
+
+	2)  ■■  TCR  ■■  Govt. Engineering College,Thrissur.  ■■  G  ■■  261
+
+	3)  ■■  TKM  ■■  T K M College of Engineering, Kollam.  ■■  G  ■■  501
+
+	4)  ■■  MDL  ■■  Model Engineering College, Thrikkakkara.  ■■  N  ■■  775
+
+	5)  ■■  MAC  ■■  M A College of Engineering, Kothamangalam.  ■■  G  ■■  910
+
+	6)  ■■  KTE  ■■  Govt. Rajiv Gandhi Institute of Tech., Kottayam.  ■■  G  ■■  1228
+
+	7)  ■■  KNR  ■■  Govt. College of Engineering, Kannur.  ■■  G  ■■  1244
+
+	8)  ■■  PKD  ■■  Govt. Engineering College, Sreekrishnapuram.  ■■  G  ■■  1314
+
+	9)  ■■  NSS  ■■  N S S College of Engineering, Palakkad.  ■■  G  ■■  1358
+
+	10)  ■■  SCT  ■■  S C T College of Engineering, Pappanamcode, TVPM  ■■  N  ■■  1927
+
+	11)  ■■  RET  ■■  Rajagiri School of Engineering and Technology, Kochi.  ■■  S  ■■  2471
+
+	12)  ■■  CHN  ■■  College of Engineering, Chengannur, Alappuzha.  ■■  N  ■■  4269
+
+	13)  ■■  MUT  ■■  Muthoot Institute of Tech. & Science, Puthencurz,  ■■  S  ■■  4340
+
+	14)  ■■  CCE  ■■  Christ College of Engineering, Irinjalakuda.  ■■  S  ■■  5745
+
+	15)  ■■  FIT  ■■  Federal Institute of Science & Tech., Angamaly.  ■■  S  ■■  5990
+
+	16)  ■■  ADR  ■■  College of Engineering, Adoor  ■■  N  ■■  6384
+
+	17)  ■■  LBT  ■■  LBS Institute of Tech. for Women, Poojapura, TVPM  ■■  N  ■■  6938
+
+	18)  ■■  MBT  ■■  Mar Baselious College of Engg. & Tech.,  ■■  S  ■■  7549
+
+	19)  ■■  CEA  ■■  College of Engineering, Attingal, Thiruvananthapuram.  ■■  N  ■■  7807
+
+	20)  ■■  MGP  ■■  Saintgits College of Engineering, Kottayam  ■■  S  ■■  7836
+
+	21)  ■■  TLY  ■■  College of Engineering, Thalassery, Kannur.  ■■  N  ■■  8891
+
+	22)  ■■  KSD  ■■  LBS College of Engineering, Kasaragod.  ■■  N  ■■  9949
+
+	23)  ■■  AJC  ■■  Amal Jyothi College of Engineering, Koovapally, Kanjirapally  ■■  S  ■■  10409
+
+	24)  ■■  SJC  ■■  St. Josephs College of Engineering and Technology,Palai.  ■■  S  ■■  10790
+
+	25)  ■■  SCM  ■■  SCMS School of Engg. & Tech., Ernakulam  ■■  S  ■■  10803
+
+	26)  ■■  PTA  ■■  College of Engineering, Kallooppara.  ■■  N  ■■  11057
+
+	27)  ■■  VJC  ■■  Viswajyothi College of Engg. & Technology,Vazhakulam.  ■■  S  ■■  11183
+
+	28)  ■■  VDA  ■■  College of Engineering, Vadakara, Kozhikode.  ■■  N  ■■  11916
+
+	29)  ■■  PRN  ■■  College of Engineering Perumon.  ■■  N  ■■  12070
+
+	30)  ■■  UCK  ■■  University College of Engineering, Kariavattom.  ■■  N  ■■  12791
+
+====================================================================================================
+
