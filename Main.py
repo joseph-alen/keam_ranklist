@@ -6,6 +6,7 @@ from docx.oxml.table import CT_Tbl
 import json
 import os
 
+print("This is some extra bit")
 
 def get_para_data(para_obj):
     para = para_obj.text.strip()
