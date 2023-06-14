@@ -120,19 +120,56 @@ def test_uniformity(path):
     all_diff = [*diff, *diff2, *diff3]
     all_diff = list(set(all_diff))
 
-    if len(all_diff) == 0:
-        return True
-    else:
+    if len(all_diff) != 0:
         print("Missing courses :- ")
         print(all_diff)
+
+
+def load_all_data(data_dir):
+    year_dirs = os.listdir(data_dir)
+
+    main_data = {}
+    for year_dir in year_dirs:
+
+        files = os.listdir(f'{data_dir}/{year_dir}')
+
+        allotments_data = []
+        for filename in files:
+            with open(f'{data_dir}/{year_dir}/{filename}', 'r') as f:
+                data = json.load(f)
+
+            allotments_data.append(data)
+
+        main_data[year_dir] = allotments_data
+
+    return main_data
+
+
+# def get_top_courses():
+
+
+def get_overall_score(data_dir):
+    files = os.listdir(data_dir)
+
+    colleges = {}
+    for filename in files:
+        with open(f'{data_dir}/{filename}', 'r') as f:
+            data = json.load(f)
+
+        for course in data:
+            for row in data[course]:
+                colleges[row[0]] = row[1]
 
 
 word_file = './rank_details/2020/3.docx'
 savename = './compiled_data/2020/3.json'
 
 
-compile_docx(word_file, savename)
+# compile_docx(word_file, savename)
 
-test_uniformity('./compiled_data/2020')
+# test_uniformity('./compiled_data/2020')
 
-select_data(savename, ['Computer Science & Engineering'], 30)
+# select_data(savename, ['Computer Science & Engineering'], 30)
+data = load_all_data('./compiled_data')
+
+print(data['2021'])
