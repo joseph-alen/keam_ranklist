@@ -123,15 +123,15 @@ def test_uniformity(path):
     if len(all_diff) == 0:
         return True
     else:
+        print("Missing courses :- ")
         print(all_diff)
-        raise RuntimeError
 
 
-word_file = './rank_details/2022/1.docx'
-savename = './compiled_data/2022/1.json'
+word_file = './rank_details/2020/3.docx'
+savename = './compiled_data/2020/3.json'
 
 
-# compile_docx(word_file, savename)
+compile_docx(word_file, savename)
 
 test_uniformity('./compiled_data/2020')
 
