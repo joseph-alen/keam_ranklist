@@ -6,7 +6,6 @@ from docx.oxml.table import CT_Tbl
 import json
 import os
 
-print("This is some extra bit")
 
 def get_para_data(para_obj):
     para = para_obj.text.strip()
@@ -124,7 +123,7 @@ def test_uniformity(path):
     if len(all_diff) == 0:
         return True
     else:
-        input(all_diff)
+        print(all_diff)
         raise RuntimeError
 
 
@@ -132,8 +131,8 @@ word_file = './rank_details/2022/1.docx'
 savename = './compiled_data/2022/1.json'
 
 
-compile_docx(word_file, savename)
+# compile_docx(word_file, savename)
 
-test_uniformity('./compiled_data/2022')
+test_uniformity('./compiled_data/2020')
 
 select_data(savename, ['Computer Science & Engineering'], 30)
