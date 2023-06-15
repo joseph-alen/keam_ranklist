@@ -80,7 +80,7 @@ def display(data):
 
 
 def select_data(data_path, courses='all', row_per_course=10):
-    # courses parameter takes a list as an alternative to 'all'
+    # courses parameter takes a list as an alternative to 'all
 
     with open(data_path, 'r') as f:
         data = json.load(f)
@@ -146,19 +146,6 @@ def load_all_data(data_dir):
 
 
 # def get_top_courses():
-
-
-def get_overall_score(data_dir):
-    files = os.listdir(data_dir)
-
-    colleges = {}
-    for filename in files:
-        with open(f'{data_dir}/{filename}', 'r') as f:
-            data = json.load(f)
-
-        for course in data:
-            for row in data[course]:
-                colleges[row[0]] = row[1]
 
 
 word_file = './rank_details/2020/3.docx'
