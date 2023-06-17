@@ -1,0 +1,67 @@
+body {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    font-family: Arial, sans-serif;
+}
+
+header {
+    text-align: center;
+    margin-bottom: 100px;
+    /* Added margin */
+}
+
+header h1 {
+    font-size: 32px;
+    color: #333;
+    margin-bottom: 10px;
+}
+
+header p {
+    font-size: 18px;
+    color: #666;
+}
+
+nav {
+    background-color: #333;
+    padding: 10px;
+    width: 100%;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+}
+
+.nav_div {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    font-family: Arial, sans-serif;
+    /* flex-grow: 1; */
+    margin-left: 45px;
+    margin-right: 45px;
+}
+
+.nav_div p {
+    font-size: 22px;
+    margin-bottom: 12px;
+    margin-top: 2px;
+    color: #ffffff;
+}
+
+select {
+    background-color: #fff;
+    color: #333;
+    padding-left: 10px;
+    padding-right: 10px;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    border-radius: 10px;
+    /* border: none; */
+}
+
+select option {
+    padding: 15px;
+    /* border: none; */
+}
