@@ -6,6 +6,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>KEAM</title>
     <link rel="stylesheet" href="styles.css">
+    <script src="myscript.js"></script>
 </head>
 
 <body>
@@ -16,22 +17,26 @@
 
     <nav>
 
-        <div class="nav_div">
+        <div class="nav_div" id="sort-div">
             <p>Sort By</p>
-            <select>
-                <option value="rank">Rank</option>
-                <option value="type">Type</option>
-            </select>
+            <button class="dropdown-toggle" id="sort-toggle" onclick="toggleDropdown(this)">-- None -- ▼</button>
+            <div class="dropdown-content" id="sort-content">
+                <a href="#" onclick="toggleDropdown(this)">-- None --</a>
+                <a href="#" onclick="toggleDropdown(this)">Rank</a>
+                <a href="#" onclick="toggleDropdown(this)">Type</a>
+            </div>
         </div>
 
-        <div class="nav_div">
+        <div class="nav_div" id="filter-div">
             <p>Filter By</p>
-            <select>
-                <option value="courses">Courses</option>
-                <option value="colleges">Colleges</option>
-                <option value="type">Type</option>
-                <option value="year">Year</option>
-            </select>
+            <button class="dropdown-toggle" id="filter-toggle" onclick="toggleDropdown(this)">-- None -- ▼</button>
+            <div class="dropdown-content" id="filter-content">
+                <a href="#" onclick="toggleDropdown(this)">-- None --</a>
+                <a href="#" onclick="toggleDropdown(this)">Type</a>
+                <a href="#" onclick="toggleDropdown(this)">Year</a>
+                <a href="#" onclick="toggleDropdown(this)">Courses</a>
+                <a href="#" onclick="toggleDropdown(this)">Colleges</a>
+            </div>
         </div>
 
     </nav>

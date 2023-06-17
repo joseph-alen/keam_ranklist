@@ -41,6 +41,7 @@ nav {
     /* flex-grow: 1; */
     margin-left: 45px;
     margin-right: 45px;
+    position: relative;
 }
 
 .nav_div p {
@@ -50,18 +51,35 @@ nav {
     color: #ffffff;
 }
 
-select {
+.dropdown-toggle {
     background-color: #fff;
     color: #333;
-    padding-left: 10px;
-    padding-right: 10px;
-    padding-top: 5px;
-    padding-bottom: 5px;
-    border-radius: 10px;
-    /* border: none; */
+    padding: 5px;
+    cursor: pointer;
+    padding: 5px 3px 5px 10px;
+    border-radius: 6px;
 }
 
-select option {
-    padding: 15px;
-    /* border: none; */
+.dropdown-content {
+    display: none;
+    background-color: #f9f9f9;
+    min-width: 150px;
+    box-shadow: 0 8px 16px rgba(0, 0, 0, 0.2);
+    padding: 10px;
+    z-index: 1;
+    border-radius: 6px;
+    position: absolute;
+    top: 100%;
+    left: 0;
+}
+
+.dropdown-content a {
+    display: block;
+    color: #333;
+    text-decoration: none;
+    padding: 5px 0;
+}
+
+.dropdown-content a:hover {
+    background-color: #ddd;
 }
