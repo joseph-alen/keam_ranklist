@@ -68,6 +68,33 @@ def filter_by(main_data, criteria='courses', acceptables=[]):
 
         return main_data
 
+    elif criteria == 'types':
+        for year in main_data:
+            for allotment in main_data[year]:
+                remove_courses = []
+                for course in allotment:
+                    filtered_data = filter(lambda row: row[2] in acceptables, allotment[course])
+                    allotment[course] = [*filtered_data]
+
+                    if len(allotment[course]) == 0:
+                        remove_courses.append(course)
+
+                for course in remove_courses:
+                    del allotment[course]
+
+        return main_data
+
+    elif criteria == 'years':
+        remove_years = []
+        for year in main_data:
+            if year not in acceptables:
+                remove_years.append(year)
+
+        for year in remove_years:
+            del main_data[year]
+
+        return main_data
+
 
 def write_data(path, data):
     with open(path, 'w', encoding='utf-8') as f:
@@ -75,6 +102,6 @@ def write_data(path, data):
 
 
 main_data = load_all_data('./compiled_data')
-filtered_data = filter_by(main_data, criteria='colleges', acceptables=['RGB', 'MUT', 'TVE', 'TKM'])
+filtered_data = filter_by(main_data, criteria='years', acceptables=['2020'])
 
 write_data('./test_returns/data.json', filtered_data)
