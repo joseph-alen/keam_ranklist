@@ -30,6 +30,8 @@ nav {
     display: flex;
     flex-direction: row;
     justify-content: center;
+    position: relative;
+    z-index: 1;
 }
 
 .nav_div {
@@ -44,7 +46,7 @@ nav {
     position: relative;
 }
 
-.nav_div p {
+.pname {
     font-size: 22px;
     margin-bottom: 12px;
     margin-top: 2px;
@@ -66,20 +68,92 @@ nav {
     min-width: 150px;
     box-shadow: 0 8px 16px rgba(0, 0, 0, 0.2);
     padding: 10px;
-    z-index: 1;
     border-radius: 6px;
     position: absolute;
     top: 100%;
     left: 0;
 }
 
-.dropdown-content a {
-    display: block;
+.option-tag {
     color: #333;
     text-decoration: none;
     padding: 5px 0;
 }
 
-.dropdown-content a:hover {
+.option-tag:hover {
     background-color: #ddd;
+    cursor: pointer;
+}
+
+#types-div,
+#years-div,
+#courses-div,
+#colleges-div {
+    display: none;
+    max-height: 200px;
+    width: 500px;
+    overflow: auto;
+    box-shadow: 0 8px 16px rgba(0, 0, 0, 0.2);
+    padding: 10px 10px 10px 10px;
+    background: rgb(255, 255, 255);
+    border-radius: 6px;
+    position: absolute;
+    top: 0;
+    left: 102%;
+}
+
+.types-div-p,
+.years-div-p,
+.courses-div-p,
+.colleges-div-p {
+    padding: 10px;
+    margin: 0px;
+    color: #000000;
+}
+
+.types-div-p:nth-child(odd),
+.years-div-p:nth-child(odd),
+.courses-div-p:nth-child(odd),
+.colleges-div-p:nth-child(odd) {
+    background: rgba(232, 232, 232, 0.586);
+}
+
+
+.types-div-p:hover,
+.years-div-p:hover,
+.courses-div-p:hover,
+.colleges-div-p:hover {
+    background-color: #ddd;
+}
+
+table {
+    width: 80%;
+    border-collapse: collapse;
+    position: relative;
+    z-index: 0;
+}
+
+th,
+td {
+    padding: 10px;
+    text-align: left;
+    border-bottom: 2px solid #ddd;
+    border-right: 2px solid #ddd;
+    border-left: 2px solid #ddd;
+    border-top: 2px solid #ddd;
+}
+
+th {
+    background-color: #f2f2f2;
+}
+
+tr:nth-child(even) {
+    background-color: #f9f9f9;
+}
+
+#refresh {
+    margin: 70px 0 0px 0;
+    padding: 5px 25px;
+    /* border-radius: 4px; */
+    font-size: 16px;
 }

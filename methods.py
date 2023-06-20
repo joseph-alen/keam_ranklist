@@ -96,12 +96,45 @@ def filter_by(main_data, criteria='courses', acceptables=[]):
         return main_data
 
 
+def get_all_courses(main_data):
+
+    courses_set = set()
+    for year in main_data:
+        for allotment in main_data[year]:
+            for course in allotment:
+                courses_set.add(course)
+
+    sorted_courses = sorted(courses_set)
+    return sorted_courses
+
+
+def get_all_colleges(main_data):
+
+    colleges = []
+
+    for row in main_data['2022'][0]['Computer Science & Engineering']:
+        if row[1] not in colleges:
+            colleges.append(row[1])
+
+    for year in main_data:
+        for allotment in main_data[year]:
+            for course in allotment:
+                for row in allotment[course]:
+                    if row[1] not in colleges:
+                        colleges.append(row[1])
+
+    # sorted_colleges = sorted(colleges)
+    return colleges
+
+
 def write_data(path, data):
     with open(path, 'w', encoding='utf-8') as f:
         json.dump(data, f)
 
 
 main_data = load_all_data('./compiled_data')
-filtered_data = filter_by(main_data, criteria='years', acceptables=['2020'])
+# courses = get_all_colleges(main_data)
 
-write_data('./test_returns/data.json', filtered_data)
+main_data = filter_by(main_data, criteria='colleges', acceptables=['TKM', 'TVE', 'TCR', 'KTE'])
+
+write_data('./test_returns/data.json', main_data)

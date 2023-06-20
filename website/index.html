@@ -6,7 +6,6 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>KEAM</title>
     <link rel="stylesheet" href="styles.css">
-    <script src="myscript.js"></script>
 </head>
 
 <body>
@@ -18,28 +17,58 @@
     <nav>
 
         <div class="nav_div" id="sort-div">
-            <p>Sort By</p>
-            <button class="dropdown-toggle" id="sort-toggle" onclick="toggleDropdown(this)">-- None -- ▼</button>
+            <p class="pname">Sort By</p>
+            <button class="dropdown-toggle" id="sort-toggle" onclick="toggleDropdown(this)">Rank ▼</button>
             <div class="dropdown-content" id="sort-content">
-                <a href="#" onclick="toggleDropdown(this)">-- None --</a>
-                <a href="#" onclick="toggleDropdown(this)">Rank</a>
-                <a href="#" onclick="toggleDropdown(this)">Type</a>
+                <!-- <a href="#" onclick="toggleDropdown(this)">-- None --</a> -->
+                <div onclick="toggleDropdown(this)" class="option-tag"><span>Rank</span></div>
+                <div onclick="toggleDropdown(this)" class="option-tag"><span>Type</span></div>
             </div>
         </div>
 
         <div class="nav_div" id="filter-div">
-            <p>Filter By</p>
+            <p class="pname">Filter By</p>
+
             <button class="dropdown-toggle" id="filter-toggle" onclick="toggleDropdown(this)">-- None -- ▼</button>
+
             <div class="dropdown-content" id="filter-content">
-                <a href="#" onclick="toggleDropdown(this)">-- None --</a>
-                <a href="#" onclick="toggleDropdown(this)">Type</a>
-                <a href="#" onclick="toggleDropdown(this)">Year</a>
-                <a href="#" onclick="toggleDropdown(this)">Courses</a>
-                <a href="#" onclick="toggleDropdown(this)">Colleges</a>
+
+                <div onclick="toggleDropdown(this)" class="option-tag"><span>-- None --</span></div>
+
+                <div onclick="toggleDropdown(this)" class="option-tag" id="type-option"><span>Type</span>
+                    <div onclick="event.stopPropagation();" id="types-div">
+                        <!-- p tags will be generated here. class="types-div-p"-->
+                    </div>
+                </div>
+
+                <div onclick="toggleDropdown(this)" class="option-tag" id="year-option"><span>Year</span>
+                    <div onclick="event.stopPropagation();" id="years-div">
+                        <!-- p tags will be generated here. class="years-div-p"-->
+                    </div>
+                </div>
+
+                <div onclick="toggleDropdown(this)" class="option-tag" id="course-option"><span>Courses</span>
+                    <div onclick="event.stopPropagation();" id="courses-div">
+                        <!-- p tags will be generated here. class="courses-div-p"-->
+                    </div>
+                </div>
+
+                <div onclick="toggleDropdown(this)" class="option-tag" id="college-option"><span>Colleges</span>
+                    <div onclick="event.stopPropagation();" id="colleges-div">
+                        <!-- p tags will be generated here. class="colleges-div-p" -->
+                    </div>
+                </div>
             </div>
         </div>
-
     </nav>
+
+    <button id="refresh" onclick="refreshData()"> Refresh Data ↻</button>
+    <table id="main-table">
+
+    </table>
+
+
 </body>
+<script src="myscript.js"></script>
 
 </html>
